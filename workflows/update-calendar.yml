@@ -1,0 +1,44 @@
+name: Update Sun City events calendar
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "27 11 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v5
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Generate calendar
+        run: python generate_calendar.py
+
+      - name: Commit updated calendar
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add suncity-events.ics
+
+          if git diff --cached --quiet; then
+            echo "No calendar changes"
+          else
+            git commit -m "Update Sun City events calendar"
+            git push
+          fi
