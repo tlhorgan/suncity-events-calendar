@@ -1,0 +1,2431 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sun City Arizona Events Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sun City Events
+X-WR-TIMEZONE:America/Phoenix
+BEGIN:VEVENT
+SUMMARY:FREE WORKSHOP – Facts About Reverse Mortgages And Purchase Optio
+ ns!
+DTSTART;TZID=America/Phoenix:20240313T100000
+DTEND;TZID=America/Phoenix:20240313T113000
+DTSTAMP;TZID=America/Phoenix:20240115T143344
+UID:15529-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/15529
+LOCATION:10401 W Coggins Drive\, Sun City\, AZ 85351
+URL:https://suncityhoa.org/events/15529/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Congresswoman Lesko Mobile Office Hours
+DTSTART;TZID=America/Phoenix:20240501T123000
+DTEND;TZID=America/Phoenix:20240501T143000
+DTSTAMP;TZID=America/Phoenix:20240417T160530
+UID:15864-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/15864
+URL:https://suncityhoa.org/events/15864/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:10th Biannual Shred & Recycling Event
+DTSTART;TZID=America/Phoenix:20251011T080000
+DTEND;TZID=America/Phoenix:20251011T120000
+DTSTAMP;TZID=America/Phoenix:20250903T124810
+UID:18543-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/18543
+URL:https://suncityhoa.org/events/18543/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:4th Annual Electronics Recycling Event
+DTSTART;TZID=America/Phoenix:20250312T080000
+DTEND;TZID=America/Phoenix:20250312T110000
+DTSTAMP;TZID=America/Phoenix:20250204T121703
+UID:17585-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/3rd-annual-electronics-r
+ ecycling-event
+URL:https://suncityhoa.org/events/3rd-annual-electronics-recycling-event/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Advanced Home Health and Hospice Care
+DTSTART;TZID=America/Phoenix:20250116T123000
+DTEND;TZID=America/Phoenix:20250116T143000
+DTSTAMP;TZID=America/Phoenix:20241212T114404
+UID:17217-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/advanced-home-health-and
+ -hospice-care
+LOCATION:10401 W Coggins Drive\, Sun City\, AZ 85351
+URL:https://suncityhoa.org/events/advanced-home-health-and-hospice-care/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Advanced Home Health & Hospice
+DTSTART;TZID=America/Phoenix:20250213T100000
+DTEND;TZID=America/Phoenix:20250213T120000
+DTSTAMP;TZID=America/Phoenix:20250116T132837
+UID:17482-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/advanced-home-health-hos
+ pice
+LOCATION:10401 W Coggins Drive\, Sun City\, AZ 85351
+URL:https://suncityhoa.org/events/advanced-home-health-hospice/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Air Doctor Duct Cleaning & Lining
+DTSTART;TZID=America/Phoenix:20250220T100000
+DTEND;TZID=America/Phoenix:20250220T110000
+DTSTAMP;TZID=America/Phoenix:20241204T134024
+UID:17164-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/air-doctor-duct-cleaning
+ -lining
+LOCATION:10401 W Coggins Drive\, Sun City\, AZ 85351
+URL:https://suncityhoa.org/events/air-doctor-duct-cleaning-lining/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All Lights on for Merry & Bright Christmas Lights Contest
+DTSTART;VALUE=DATE:20241215
+DTEND;VALUE=DATE:20241215
+DTSTAMP;TZID=America/Phoenix:20241205T165212
+UID:17188-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/all-lights-on-for-merry-
+ bright-christmas-lights-contest
+URL:https://suncityhoa.org/events/all-lights-on-for-merry-bright-christmas
+ -lights-contest/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:APS Rate Case Hearing
+DTSTART;TZID=America/Phoenix:20260218T100000
+DTEND;TZID=America/Phoenix:20260218T130000
+DTSTAMP;TZID=America/Phoenix:20260206T094404
+UID:19360-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/aps-rate-case-hearing
+URL:https://suncityhoa.org/events/aps-rate-case-hearing/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:APS Rate Case Hearing
+DTSTART;TZID=America/Phoenix:20260518T100000
+DTEND;TZID=America/Phoenix:20260518T130000
+DTSTAMP;TZID=America/Phoenix:20260206T094556
+UID:19365-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/aps-rate-case-hearing-2
+URL:https://suncityhoa.org/events/aps-rate-case-hearing-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Workshop-AZ Perfect Comfort
+DTSTART;TZID=America/Phoenix:20250305T100000
+DTEND;TZID=America/Phoenix:20250305T113000
+DTSTAMP;TZID=America/Phoenix:20241212T125647
+UID:17233-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/az-perfect-confort
+LOCATION:10401 W Coggins Drive\, Sun City\, AZ 85351
+URL:https://suncityhoa.org/events/az-perfect-confort/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Be Ready\, Stay Ready a free SERVPRO Readiness Workshop
+DTSTART;TZID=America/Phoenix:20260423T120000
+DTEND;TZID=America/Phoenix:20260423T130000
+DTSTAMP;TZID=America/Phoenix:20260317T101818
+UID:19806-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/be-ready-stay-ready-a-fr
+ ee-servpro-readiness-workshop
+URL:https://suncityhoa.org/events/be-ready-stay-ready-a-free-servpro-readi
+ ness-workshop/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Board Meeting
+DTSTART;TZID=America/Phoenix:20230228T090000
+DTEND;TZID=America/Phoenix:20230228T100000
+DTSTAMP;TZID=America/Phoenix:20230215T134225
+UID:13845-events@suncityhoa.org
+RRULE:FREQ=MONTHLY;INTERVAL=1;BYDAY=4TU;BYMONTH=1,2,3,4,5,6,9,10,11,12
+EXDATE:20230228T160000Z
+DESCRIPTION:Source: https://suncityhoa.org/events/board-meeting
+LOCATION:10401 W Coggins Drive\, Sun City\, AZ 85351
+URL:https://suncityhoa.org/events/board-meeting/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Board Meeting
+DTSTART;TZID=America/Phoenix:20241217T090000
+DTEND;TZID=America/Phoenix:20241217T100000
+DTSTAMP;TZID=America/Phoenix:20241114T104716
+UID:17005-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/board-meeting-2
+URL:https://suncityhoa.org/events/board-meeting-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Board of Directors Election Begins
+DTSTART;VALUE=DATE:20231029
+DTEND;VALUE=DATE:20231029
+DTSTAMP;TZID=America/Phoenix:20230922T130725
+UID:15151-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/board-of-directors-elect
+ ion-begins
+URL:https://suncityhoa.org/events/board-of-directors-election-begins/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Board of Directors Voting ENDS
+DTSTART;VALUE=DATE:20231112
+DTEND;VALUE=DATE:20231112
+DTSTAMP;TZID=America/Phoenix:20230922T131051
+UID:15156-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/board-of-directors-votin
+ g-ends
+URL:https://suncityhoa.org/events/board-of-directors-voting-ends/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Candidate Packets Due
+DTSTART;VALUE=DATE:20231002
+DTEND;VALUE=DATE:20231002
+DTSTAMP;TZID=America/Phoenix:20230922T130511
+UID:15148-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/candidate-packets-due
+URL:https://suncityhoa.org/events/candidate-packets-due/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Christmas – Office Closed
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261226
+DTSTAMP;TZID=America/Phoenix:20240409T091357
+UID:15823-events@suncityhoa.org
+RRULE:FREQ=YEARLY;INTERVAL=1
+EXDATE:20261225
+DESCRIPTION:Source: https://suncityhoa.org/events/christmas-office-closed
+URL:https://suncityhoa.org/events/christmas-office-closed/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Christmas Eve Day – Office Closed
+DTSTART;VALUE=DATE:20251224
+DTEND;VALUE=DATE:20251224
+DTSTAMP;TZID=America/Phoenix:20251101T185653
+UID:18880-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/christmas-office-closed-
+ 2
+URL:https://suncityhoa.org/events/christmas-office-closed-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:COA Hosts Scam & Fraud Event
+DTSTART;TZID=America/Phoenix:20250313T140000
+DTEND;TZID=America/Phoenix:20250313T000000
+DTSTAMP;TZID=America/Phoenix:20250306T151650
+UID:17853-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/coa-hosts-scam-fraud-eve
+ nt
+URL:https://suncityhoa.org/events/coa-hosts-scam-fraud-event/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:COFFEE CHAT with the AZ Attorney General’s Office
+DTSTART;TZID=America/Phoenix:20241001T100000
+DTEND;TZID=America/Phoenix:20241001T110000
+DTSTAMP;TZID=America/Phoenix:20240829T112301
+UID:16415-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/coffee-chat-with-the-az-
+ attorney-generals-office
+URL:https://suncityhoa.org/events/coffee-chat-with-the-az-attorney-general
+ s-office/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Coffee With a Cop at Starbucks
+DTSTART;TZID=America/Phoenix:20260224T090000
+DTEND;TZID=America/Phoenix:20260224T110000
+DTSTAMP;TZID=America/Phoenix:20260220T110239
+UID:19536-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/coffee-with-a-cop-at-sta
+ rbucks
+URL:https://suncityhoa.org/events/coffee-with-a-cop-at-starbucks/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SCHOA Community Day of Service
+DTSTART;TZID=America/Phoenix:20260327T070000
+DTEND;TZID=America/Phoenix:20260327T120000
+DTSTAMP;TZID=America/Phoenix:20251218T100043
+UID:19122-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/community-day-of-service
+URL:https://suncityhoa.org/events/community-day-of-service/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day Of Service
+DTSTART;VALUE=DATE:20241025
+DTEND;VALUE=DATE:20241025
+DTSTAMP;TZID=America/Phoenix:20241015T095339
+UID:16712-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/day-of-service
+URL:https://suncityhoa.org/events/day-of-service/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day of Service
+DTSTART;VALUE=DATE:20270319
+DTEND;VALUE=DATE:20270319
+DTSTAMP;TZID=America/Phoenix:20260422T145640
+UID:20008-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/day-of-service-2
+URL:https://suncityhoa.org/events/day-of-service-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline to Register for Merry & Bright Christmas Lights Contest!
+DTSTART;VALUE=DATE:20241212
+DTEND;VALUE=DATE:20241212
+DTSTAMP;TZID=America/Phoenix:20241205T164709
+UID:17183-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/deadline-to-register-for
+ -merry-bright-christmas-lights-contest
+URL:https://suncityhoa.org/events/deadline-to-register-for-merry-bright-ch
+ ristmas-lights-contest/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Congresswoman Lesko Mobile Office Hours
+DTSTART;TZID=America/Phoenix:20231026T100000
+DTEND;TZID=America/Phoenix:20231026T120000
+DTSTAMP;TZID=America/Phoenix:20230914T102408
+UID:15100-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/debbie-lesko-office
+LOCATION:10401 W Coggins Drive\, Sun City\, AZ 85351
+URL:https://suncityhoa.org/events/debbie-lesko-office/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:December 2022 Board Meeting
+DTSTART;TZID=America/Phoenix:20221228T090000
+DTEND;TZID=America/Phoenix:20221228T100000
+DTSTAMP;TZID=America/Phoenix:20221223T061549
+UID:13649-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/december-2022-board-meet
+ ing
+URL:https://suncityhoa.org/events/december-2022-board-meeting/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Do you love your Medicare? Lets talk!
+DTSTART;TZID=America/Phoenix:20250212T100000
+DTEND;TZID=America/Phoenix:20250212T110000
+DTSTAMP;TZID=America/Phoenix:20241212T115609
+UID:17226-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/do-you-love-your-medicar
+ e-lets-talk
+URL:https://suncityhoa.org/events/do-you-love-your-medicare-lets-talk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Electronics Recycling Event
+DTSTART;TZID=America/Phoenix:20230314T080000
+DTEND;TZID=America/Phoenix:20230314T110000
+DTSTAMP;TZID=America/Phoenix:20230301T130622
+UID:13896-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/electronics-recycling-ev
+ ent
+URL:https://suncityhoa.org/events/electronics-recycling-event/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ELECTRONICS RECYCLING EVENT
+DTSTART;TZID=America/Phoenix:20240220T080000
+DTEND;TZID=America/Phoenix:20240220T110000
+DTSTAMP;TZID=America/Phoenix:20240124T141054
+UID:15543-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/electronics-recycling-ev
+ ent-2
+LOCATION:16820 N 99th Ave\, Sun City\, AZ 85351
+URL:https://suncityhoa.org/events/electronics-recycling-event-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Electronics Recycling Event
+DTSTART;TZID=America/Phoenix:20260421T080000
+DTEND;TZID=America/Phoenix:20260421T110000
+DTSTAMP;TZID=America/Phoenix:20260202T144710
+UID:19331-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/electronics-recycling-ev
+ ent-3
+URL:https://suncityhoa.org/events/electronics-recycling-event-3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Estate Planning Presentation
+DTSTART;TZID=America/Phoenix:20260423T083000
+DTEND;TZID=America/Phoenix:20260423T100000
+DTSTAMP;TZID=America/Phoenix:20260324T141822
+UID:19853-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/estate-planning-presenta
+ tion
+URL:https://suncityhoa.org/events/estate-planning-presentation/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fre Workshop- Neptune Society Lunch & Learn
+DTSTART;TZID=America/Phoenix:20260212T113000
+DTEND;TZID=America/Phoenix:20260212T123000
+DTSTAMP;TZID=America/Phoenix:20250722T095522
+UID:18385-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/fre-workshop-neptune-soc
+ iety-lunch-learn
+LOCATION:10401 W Coggins Drive\, Sun City\, AZ 85351
+URL:https://suncityhoa.org/events/fre-workshop-neptune-society-lunch-learn
+ /
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FREE LUNCH AND WORKSHOP: Benefits of Preplanning Cremation
+DTSTART;TZID=America/Phoenix:20241212T113000
+DTEND;TZID=America/Phoenix:20241212T130000
+DTSTAMP;TZID=America/Phoenix:20241121T134521
+UID:17051-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/free-lunch-and-workshop-
+ benefits-of-preplanning-cremation
+URL:https://suncityhoa.org/events/free-lunch-and-workshop-benefits-of-prep
+ lanning-cremation/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FREE Medicare Workshop
+DTSTART;TZID=America/Phoenix:20241112T100000
+DTEND;TZID=America/Phoenix:20241112T110000
+DTSTAMP;TZID=America/Phoenix:20241108T121550
+UID:16950-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/free-medicare-workshop
+URL:https://suncityhoa.org/events/free-medicare-workshop/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FREE MEXICO DENTAL WORKSHOP!!
+DTSTART;TZID=America/Phoenix:20230927T110000
+DTEND;TZID=America/Phoenix:20230927T130000
+DTSTAMP;TZID=America/Phoenix:20230814T135207
+UID:14933-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/free-mexican-dental-work
+ shop
+LOCATION:10401 W Coggins Drive\, Sun City\, AZ 85351
+URL:https://suncityhoa.org/events/free-mexican-dental-workshop/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FREE WORKSHOP – 5 EASY STEPS TO PREPARE YOUR HOME TO SELL
+DTSTART;TZID=America/Phoenix:20231114T100000
+DTEND;TZID=America/Phoenix:20231114T110000
+DTSTAMP;TZID=America/Phoenix:20231019T115127
+UID:15236-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-5-easy-ste
+ ps-to-prepare-your-home-to-sell
+LOCATION:10401 W Coggins Drive\, Sun City\, AZ 85351
+URL:https://suncityhoa.org/events/free-workshop-5-easy-steps-to-prepare-yo
+ ur-home-to-sell/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FREE WORKSHOP – 5 EASY STEPS TO SELL YOUR HOME
+DTSTART;TZID=America/Phoenix:20230823T100000
+DTEND;TZID=America/Phoenix:20230823T110000
+DTSTAMP;TZID=America/Phoenix:20230720T121629
+UID:14804-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-5-easy-ste
+ ps-to-sell-your-home
+LOCATION:10401 W Coggins Drive\, Sun City\, AZ 85351
+URL:https://suncityhoa.org/events/free-workshop-5-easy-steps-to-sell-your-
+ home/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FREE WORKSHOP – 5 EASY STEPS TO SELL YOUR HOME
+DTSTART;TZID=America/Phoenix:20231019T100000
+DTEND;TZID=America/Phoenix:20231019T110000
+DTSTAMP;TZID=America/Phoenix:20230914T101126
+UID:15095-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-5-easy-ste
+ ps-to-sell-your-home-2
+LOCATION:10401 W Coggins Drive\, Sun City\, AZ 85351
+URL:https://suncityhoa.org/events/free-workshop-5-easy-steps-to-sell-your-
+ home-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FREE WORKSHOP – Advantages of Dental Tourism
+DTSTART;TZID=America/Phoenix:20240516T110000
+DTEND;TZID=America/Phoenix:20240516T130000
+DTSTAMP;TZID=America/Phoenix:20240318T140817
+UID:15758-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-advantages
+ -of-dental-tourism
+LOCATION:10401 W Coggins Drive\, Sun City\, AZ 85351
+URL:https://suncityhoa.org/events/free-workshop-advantages-of-dental-touri
+ sm/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FREE WORKSHOP – Amazing Dental
+DTSTART;TZID=America/Phoenix:20230313T100000
+DTEND;TZID=America/Phoenix:20230313T120000
+DTSTAMP;TZID=America/Phoenix:20230301T150731
+UID:13904-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-amazing-de
+ ntal
+LOCATION:10401 W Coggins Drive\, Sun City\, AZ 85351
+URL:https://suncityhoa.org/events/free-workshop-amazing-dental/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FREE WORKSHOP – Amazing Dental
+DTSTART;TZID=America/Phoenix:20230518T110000
+DTEND;TZID=America/Phoenix:20230518T130000
+DTSTAMP;TZID=America/Phoenix:20230428T105925
+UID:14464-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-amazing-de
+ ntal-2
+LOCATION:10401 W Coggins Drive\, Sun City\, AZ 85351
+URL:https://suncityhoa.org/events/free-workshop-amazing-dental-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FREE WORKSHOP – Amazing Dental
+DTSTART;TZID=America/Phoenix:20230712T110000
+DTEND;TZID=America/Phoenix:20230712T130000
+DTSTAMP;TZID=America/Phoenix:20230623T112514
+UID:14712-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-amazing-de
+ ntal-3
+LOCATION:10401 W Coggins Drive\, Sun City\, AZ 85351
+URL:https://suncityhoa.org/events/free-workshop-amazing-dental-3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Workshop  Amazing Dental Care
+DTSTART;TZID=America/Phoenix:20250320T110000
+DTEND;TZID=America/Phoenix:20250320T120000
+DTSTAMP;TZID=America/Phoenix:20250220T124556
+UID:17745-events@suncityhoa.org
+RDATE;TZID=America/Phoenix;VALUE=PERIOD:20250514T110000/20250514T120000,20
+ 250717T110000/20250717T120000
+DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-amazing-de
+ ntal-care
+LOCATION:10401 W Coggins Drive\, Sun City\, AZ 85351
+URL:https://suncityhoa.org/events/free-workshop-amazing-dental-care/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Workshop – Amazing Dental Care
+DTSTART;TZID=America/Phoenix:20250911T110000
+DTEND;TZID=America/Phoenix:20250911T120000
+DTSTAMP;TZID=America/Phoenix:20250722T093319
+UID:18376-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-amazing-de
+ ntal-care-2
+LOCATION:10401 W Coggins Drive\, Sun City\, AZ 85351
+URL:https://suncityhoa.org/events/free-workshop-amazing-dental-care-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Workshop: Learn about Mexican Dentistry
+DTSTART;TZID=America/Phoenix:20260715T110000
+DTEND;TZID=America/Phoenix:20260715T130000
+DTSTAMP;TZID=America/Phoenix:20260626T092136
+UID:20366-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-amazing-de
+ ntal-care-learn-about-mexican-dentistry
+URL:https://suncityhoa.org/events/free-workshop-amazing-dental-care-learn-
+ about-mexican-dentistry/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Workshop – Annual Enrollment Seminar
+DTSTART;TZID=America/Phoenix:20251202T100000
+DTEND;TZID=America/Phoenix:20251202T130000
+DTSTAMP;TZID=America/Phoenix:20250610T113049
+UID:18238-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-annual-enr
+ ollment-seminar
+LOCATION:10401 W Coggins Drive\, Sun City\, AZ 85351
+URL:https://suncityhoa.org/events/free-workshop-annual-enrollment-seminar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FREE WORKSHOP – ARE YOU MAXIMIZING YOUR PROPERIES PROFITABILITY?
+DTSTART;TZID=America/Phoenix:20240124T100000
+DTEND;TZID=America/Phoenix:20240124T110000
+DTSTAMP;TZID=America/Phoenix:20231229T103457
+UID:15439-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-are-you-ma
+ ximizing-your-properies-profitability
+LOCATION:10401 W Coggins Drive\, Sun City\, AZ 85351
+URL:https://suncityhoa.org/events/free-workshop-are-you-maximizing-your-pr
+ operies-profitability/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FREE WORKSHOP – Are You Maximizing Your Properties Profitability
+DTSTART;TZID=America/Phoenix:20240306T100000
+DTEND;TZID=America/Phoenix:20240306T110000
+DTSTAMP;TZID=America/Phoenix:20240125T124808
+UID:15533-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-are-you-ma
+ ximizing-your-properties-profitability
+LOCATION:10401 W Coggins Drive\, Sun City\, AZ 85351
+URL:https://suncityhoa.org/events/free-workshop-are-you-maximizing-your-pr
+ operties-profitability/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Workshop: Avoiding Scams – Top 10 Scams and How to Avoid Th
+ em
+DTSTART;TZID=America/Phoenix:20260930T110000
+DTEND;TZID=America/Phoenix:20260930T130000
+DTSTAMP;TZID=America/Phoenix:20260803T111613
+UID:20532-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-avoiding-s
+ cams-top-10-scams-and-how-to-avoid-them
+URL:https://suncityhoa.org/events/free-workshop-avoiding-scams-top-10-scam
+ s-and-how-to-avoid-them/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FREE WORKSHOP – AZ Perfect Comfort
+DTSTART;TZID=America/Phoenix:20230411T100000
+DTEND;TZID=America/Phoenix:20230411T120000
+DTSTAMP;TZID=America/Phoenix:20230316T144441
+UID:14238-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-az-perfect
+ -comfort
+URL:https://suncityhoa.org/events/free-workshop-az-perfect-comfort/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FREE WORKSHOP – Brenda Miertschin – EXP Realty
+DTSTART;TZID=America/Phoenix:20230713T093000
+DTEND;TZID=America/Phoenix:20230713T110000
+DTSTAMP;TZID=America/Phoenix:20230623T113354
+UID:14716-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-brenda-mie
+ rtschin-exp-realty
+LOCATION:10401 W Coggins Drive\, Sun City\, AZ 85351
+URL:https://suncityhoa.org/events/free-workshop-brenda-miertschin-exp-real
+ ty/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Workshop: Changes to Medicare 2027
+DTSTART;TZID=America/Phoenix:20261001T130000
+DTEND;TZID=America/Phoenix:20261001T140000
+DTSTAMP;TZID=America/Phoenix:20260727T121436
+UID:20486-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-changes-to
+ -medicare-2027
+URL:https://suncityhoa.org/events/free-workshop-changes-to-medicare-2027/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Workshop: Changes to Medicare 2027
+DTSTART;TZID=America/Phoenix:20261008T130000
+DTEND;TZID=America/Phoenix:20261008T140000
+DTSTAMP;TZID=America/Phoenix:20260727T132311
+UID:20490-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-changes-to
+ -medicare-2027-2
+URL:https://suncityhoa.org/events/free-workshop-changes-to-medicare-2027-2
+ /
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Workshop: Changes to Medicare 2027
+DTSTART;TZID=America/Phoenix:20261022T130000
+DTEND;TZID=America/Phoenix:20261022T140000
+DTSTAMP;TZID=America/Phoenix:20260727T140812
+UID:20498-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-changes-to
+ -medicare-2027-3
+URL:https://suncityhoa.org/events/free-workshop-changes-to-medicare-2027-3
+ /
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Workshop: Changes to Medicare 2027
+DTSTART;TZID=America/Phoenix:20261029T130000
+DTEND;TZID=America/Phoenix:20261029T140000
+DTSTAMP;TZID=America/Phoenix:20260727T140955
+UID:20501-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-changes-to
+ -medicare-2027-4
+URL:https://suncityhoa.org/events/free-workshop-changes-to-medicare-2027-4
+ /
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Workshop: Changes to Medicare 2027
+DTSTART;TZID=America/Phoenix:20261105T130000
+DTEND;TZID=America/Phoenix:20261105T140000
+DTSTAMP;TZID=America/Phoenix:20260727T141045
+UID:20505-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-changes-to
+ -medicare-2027-5
+URL:https://suncityhoa.org/events/free-workshop-changes-to-medicare-2027-5
+ /
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Workshop: Changes to Medicare 2027
+DTSTART;TZID=America/Phoenix:20261112T130000
+DTEND;TZID=America/Phoenix:20261112T140000
+DTSTAMP;TZID=America/Phoenix:20260727T141210
+UID:20508-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-changes-to
+ -medicare-2027-6
+URL:https://suncityhoa.org/events/free-workshop-changes-to-medicare-2027-6
+ /
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FREE Workshop: Considering a Senior Living Community?
+DTSTART;TZID=America/Phoenix:20260430T100000
+DTEND;TZID=America/Phoenix:20260430T120000
+DTSTAMP;TZID=America/Phoenix:20260423T143139
+UID:20021-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-considerin
+ g-a-senior-living-community
+URL:https://suncityhoa.org/events/free-workshop-considering-a-senior-livin
+ g-community/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Workshop: Considering a Senior Living Community
+DTSTART;TZID=America/Phoenix:20270324T100000
+DTEND;TZID=America/Phoenix:20270324T120000
+DTSTAMP;TZID=America/Phoenix:20260727T105543
+UID:20465-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-considerin
+ g-a-senior-living-community-10
+URL:https://suncityhoa.org/events/free-workshop-considering-a-senior-livin
+ g-community-10/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Workshop: Considering a Senior Living Community
+DTSTART;TZID=America/Phoenix:20270422T100000
+DTEND;TZID=America/Phoenix:20270422T120000
+DTSTAMP;TZID=America/Phoenix:20260727T105639
+UID:20468-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-considerin
+ g-a-senior-living-community-11
+URL:https://suncityhoa.org/events/free-workshop-considering-a-senior-livin
+ g-community-11/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Workshop: Considering a Senior Living Community
+DTSTART;TZID=America/Phoenix:20270518T100000
+DTEND;TZID=America/Phoenix:20270518T120000
+DTSTAMP;TZID=America/Phoenix:20260727T105812
+UID:20472-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-considerin
+ g-a-senior-living-community-12
+URL:https://suncityhoa.org/events/free-workshop-considering-a-senior-livin
+ g-community-12/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Workshop: Considering a Senior Living Community
+DTSTART;TZID=America/Phoenix:20270623T100000
+DTEND;TZID=America/Phoenix:20270623T120000
+DTSTAMP;TZID=America/Phoenix:20260727T105912
+UID:20475-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-considerin
+ g-a-senior-living-community-13
+URL:https://suncityhoa.org/events/free-workshop-considering-a-senior-livin
+ g-community-13/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Workshop: Considering a Senior Living Community
+DTSTART;TZID=America/Phoenix:20260624T100000
+DTEND;TZID=America/Phoenix:20260624T120000
+DTSTAMP;TZID=America/Phoenix:20260608T132623
+UID:20328-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-considerin
+ g-a-senior-living-community-2
+URL:https://suncityhoa.org/events/free-workshop-considering-a-senior-livin
+ g-community-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Workshop: Considering a Senior Living Community
+DTSTART;TZID=America/Phoenix:20260729T100000
+DTEND;TZID=America/Phoenix:20260729T120000
+DTSTAMP;TZID=America/Phoenix:20260626T093207
+UID:20375-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-considerin
+ g-a-senior-living-community-3
+URL:https://suncityhoa.org/events/free-workshop-considering-a-senior-livin
+ g-community-3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Workshop: Considering a Senior Living Community
+DTSTART;TZID=America/Phoenix:20260819T100000
+DTEND;TZID=America/Phoenix:20260819T120000
+DTSTAMP;TZID=America/Phoenix:20260714T140147
+UID:20429-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-considerin
+ g-a-senior-living-community-4
+URL:https://suncityhoa.org/events/free-workshop-considering-a-senior-livin
+ g-community-4/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Workshop: Considering a Senior Living Community
+DTSTART;TZID=America/Phoenix:20260924T100000
+DTEND;TZID=America/Phoenix:20260924T120000
+DTSTAMP;TZID=America/Phoenix:20260727T105015
+UID:20448-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-considerin
+ g-a-senior-living-community-5
+URL:https://suncityhoa.org/events/free-workshop-considering-a-senior-livin
+ g-community-5/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Workshop: Considering a Senior Living Community
+DTSTART;TZID=America/Phoenix:20261022T100000
+DTEND;TZID=America/Phoenix:20261022T120000
+DTSTAMP;TZID=America/Phoenix:20260727T105132
+UID:20451-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-considerin
+ g-a-senior-living-community-6
+URL:https://suncityhoa.org/events/free-workshop-considering-a-senior-livin
+ g-community-6/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Workshop: Considering a Senior Living Community
+DTSTART;TZID=America/Phoenix:20261119T100000
+DTEND;TZID=America/Phoenix:20261119T120000
+DTSTAMP;TZID=America/Phoenix:20260727T105231
+UID:20454-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-considerin
+ g-a-senior-living-community-7
+URL:https://suncityhoa.org/events/free-workshop-considering-a-senior-livin
+ g-community-7/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Workshop: Considering a Senior Living Community
+DTSTART;TZID=America/Phoenix:20270121T100000
+DTEND;TZID=America/Phoenix:20270121T120000
+DTSTAMP;TZID=America/Phoenix:20260727T105341
+UID:20459-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-considerin
+ g-a-senior-living-community-8
+URL:https://suncityhoa.org/events/free-workshop-considering-a-senior-livin
+ g-community-8/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Workshop: Considering a Senior Living Community
+DTSTART;TZID=America/Phoenix:20270224T100000
+DTEND;TZID=America/Phoenix:20270224T120000
+DTSTAMP;TZID=America/Phoenix:20260727T105452
+UID:20462-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-considerin
+ g-a-senior-living-community-9
+URL:https://suncityhoa.org/events/free-workshop-considering-a-senior-livin
+ g-community-9/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FREE WORKSHOP: Dentistry in Mexico
+DTSTART;TZID=America/Phoenix:20260108T110000
+DTEND;TZID=America/Phoenix:20260108T130000
+DTSTAMP;TZID=America/Phoenix:20251121T103933
+UID:18983-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-dentistry-
+ in-mexico
+URL:https://suncityhoa.org/events/free-workshop-dentistry-in-mexico/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED!!!  FREE WORKSHOP – EDUCATIONAL SOLAR SEMINAR
+DTSTART;TZID=America/Phoenix:20230809T123000
+DTEND;TZID=America/Phoenix:20230809T140000
+DTSTAMP;TZID=America/Phoenix:20230720T111847
+UID:14798-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-educationa
+ l-solar-seminar
+LOCATION:10401 W Coggins Drive\, Sun City\, AZ 85351
+URL:https://suncityhoa.org/events/free-workshop-educational-solar-seminar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FREE WORKSHOP – FACTS ABOUT HECM – REVERSE MORTGAGE AND PURCHA
+ SE OPTIONS!
+DTSTART;TZID=America/Phoenix:20230928T100000
+DTEND;TZID=America/Phoenix:20230928T113000
+DTSTAMP;TZID=America/Phoenix:20230828T113209
+UID:15038-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-facts-abou
+ t-hecm-reverse-mortgage-and-purchase-options
+LOCATION:10401 W Coggins Drive\, Sun City\, AZ 85351
+URL:https://suncityhoa.org/events/free-workshop-facts-about-hecm-reverse-m
+ ortgage-and-purchase-options/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FREE WORKSHOP – FACTS ABOUT HECM – REVERSE MORTGAGE AND PURCHA
+ SE OPTIONS!
+DTSTART;TZID=America/Phoenix:20240131T100000
+DTEND;TZID=America/Phoenix:20240131T113000
+DTSTAMP;TZID=America/Phoenix:20231229T112944
+UID:15450-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-facts-abou
+ t-hecm-reverse-mortgage-and-purchase-options-2
+LOCATION:10401 W Coggins Drive\, Sun City\, AZ 85351
+URL:https://suncityhoa.org/events/free-workshop-facts-about-hecm-reverse-m
+ ortgage-and-purchase-options-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FREE WORKSHOP – Fairway Independent Mortgage Company
+DTSTART;TZID=America/Phoenix:20230413T093000
+DTEND;TZID=America/Phoenix:20230413T113000
+DTSTAMP;TZID=America/Phoenix:20230316T144819
+UID:14241-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-fairway-in
+ dependent-mortgage-company
+LOCATION:10401 W Coggins Drive\, Sun City\, AZ 85351
+URL:https://suncityhoa.org/events/free-workshop-fairway-independent-mortga
+ ge-company/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FREE WORKSHOP – Fairway Independent Mortgage Company
+DTSTART;TZID=America/Phoenix:20230511T093000
+DTEND;TZID=America/Phoenix:20230511T113000
+DTSTAMP;TZID=America/Phoenix:20230425T144721
+UID:14447-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-fairway-in
+ dependent-mortgage-company-2
+URL:https://suncityhoa.org/events/free-workshop-fairway-independent-mortga
+ ge-company-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FREE WORKSHOP – GET THE REAL FACTS ABOUT REVERSE MORTGAGES
+DTSTART;TZID=America/Phoenix:20231108T100000
+DTEND;TZID=America/Phoenix:20231108T113000
+DTSTAMP;TZID=America/Phoenix:20230727T140406
+UID:14849-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-get-the-re
+ al-facts-about-reverse-mortgages
+LOCATION:10401 W Coggins Drive\, Sun City\, AZ 85351
+URL:https://suncityhoa.org/events/free-workshop-get-the-real-facts-about-r
+ everse-mortgages/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FREE Workshop: How is your Medicare Treating You?
+DTSTART;TZID=America/Phoenix:20260217T100000
+DTEND;TZID=America/Phoenix:20260217T113000
+DTSTAMP;TZID=America/Phoenix:20260206T090942
+UID:19347-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-how-is-you
+ r-medicare-treating-you
+URL:https://suncityhoa.org/events/free-workshop-how-is-your-medicare-treat
+ ing-you/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FREE WORKSHOP – HVAC 101
+DTSTART;TZID=America/Phoenix:20231129T100000
+DTEND;TZID=America/Phoenix:20231129T120000
+DTSTAMP;TZID=America/Phoenix:20231019T120127
+UID:15239-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-hvac-101
+LOCATION:10401 W Coggins Drive\, Sun City\, AZ 85351
+URL:https://suncityhoa.org/events/free-workshop-hvac-101/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Workshop – Humana – Lead Plan Seminar
+DTSTART;TZID=America/Phoenix:20251104T100000
+DTEND;TZID=America/Phoenix:20251104T110000
+DTSTAMP;TZID=America/Phoenix:20250610T112619
+UID:18235-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-lead-plan-
+ seminar
+LOCATION:10401 W Coggins Drive\, Sun City\, AZ 85351
+URL:https://suncityhoa.org/events/free-workshop-lead-plan-seminar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FREE WORKSHOP: Maximize Medicare Benefits
+DTSTART;TZID=America/Phoenix:20260120T100000
+DTEND;TZID=America/Phoenix:20260120T120000
+DTSTAMP;TZID=America/Phoenix:20251223T111703
+UID:19146-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-maximize-m
+ edicare-benefits
+URL:https://suncityhoa.org/events/free-workshop-maximize-medicare-benefits
+ /
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Workshop:  Medicare 101
+DTSTART;TZID=America/Phoenix:20241204T130000
+DTEND;TZID=America/Phoenix:20241204T143000
+DTSTAMP;TZID=America/Phoenix:20241114T104355
+UID:17001-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-medicare-1
+ 01
+URL:https://suncityhoa.org/events/free-workshop-medicare-101/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FREE Workshop: Medicare 101\, Changes & Choices in 2027
+DTSTART;TZID=America/Phoenix:20260928T100000
+DTEND;TZID=America/Phoenix:20260928T113000
+DTSTAMP;TZID=America/Phoenix:20260810T144733
+UID:20579-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-medicare-1
+ 01-changes-choices-in-2027
+URL:https://suncityhoa.org/events/free-workshop-medicare-101-changes-choic
+ es-in-2027/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FREE Workshop: Medicare Changes & Choices
+DTSTART;TZID=America/Phoenix:20261026T100000
+DTEND;TZID=America/Phoenix:20261026T113000
+DTSTAMP;TZID=America/Phoenix:20260810T144958
+UID:20583-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-medicare-c
+ hanges-choices
+URL:https://suncityhoa.org/events/free-workshop-medicare-changes-choices/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Workshop Medicare/Medicaid Q&A By Sun Canyon Bank
+DTSTART;TZID=America/Phoenix:20251210T094500
+DTEND;TZID=America/Phoenix:20251210T111500
+DTSTAMP;TZID=America/Phoenix:20251016T142155
+UID:18739-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-medicare-m
+ edicaid-qa-by-sun-canyon-bank
+URL:https://suncityhoa.org/events/free-workshop-medicare-medicaid-qa-by-su
+ n-canyon-bank/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FREE WORKSHOP: Mexican Dentistry
+DTSTART;TZID=America/Phoenix:20260223T110000
+DTEND;TZID=America/Phoenix:20260223T123000
+DTSTAMP;TZID=America/Phoenix:20260108T131629
+UID:19208-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-mexican-de
+ ntistry
+URL:https://suncityhoa.org/events/free-workshop-mexican-dentistry/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Seminar: Mexican Tourism Dentistry
+DTSTART;TZID=America/Phoenix:20260422T110000
+DTEND;TZID=America/Phoenix:20260422T120000
+DTSTAMP;TZID=America/Phoenix:20260317T095305
+UID:19799-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-mexican-to
+ urism-dentistry
+URL:https://suncityhoa.org/events/free-workshop-mexican-tourism-dentistry/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FREE WORKSHOP – Mimosa Mornings – Top 10 Estate Planning Mista
+ kes
+DTSTART;TZID=America/Phoenix:20231005T093000
+DTEND;TZID=America/Phoenix:20231005T113000
+DTSTAMP;TZID=America/Phoenix:20230428T111716
+UID:14473-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-mimosa-mor
+ nings-top-10-estate-planning-mistakes
+LOCATION:10401 W Coggins Drive\, Sun City\, AZ 85351
+URL:https://suncityhoa.org/events/free-workshop-mimosa-mornings-top-10-est
+ ate-planning-mistakes/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Workshop- Mr. Rooter Plumbing
+DTSTART;TZID=America/Phoenix:20250410T100000
+DTEND;TZID=America/Phoenix:20250410T110000
+DTSTAMP;TZID=America/Phoenix:20250314T100154
+UID:17879-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-mr-rooter-
+ plumbing
+LOCATION:10401 W Coggins Drive\, Sun City\, AZ 85351
+URL:https://suncityhoa.org/events/free-workshop-mr-rooter-plumbing/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FREE WORKSHOP – Mutual of Omaha – Reverse Mortgage
+DTSTART;TZID=America/Phoenix:20230308T100000
+DTEND;TZID=America/Phoenix:20230308T113000
+DTSTAMP;TZID=America/Phoenix:20230301T151557
+UID:13915-events@suncityhoa.org
+RDATE;TZID=America/Phoenix;VALUE=PERIOD:20230208T100000/20230208T113000
+DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-mutual-of-
+ omaha-reverse-mortgage
+LOCATION:10401 W Coggins Drive\, Sun City\, AZ 85351
+URL:https://suncityhoa.org/events/free-workshop-mutual-of-omaha-reverse-mo
+ rtgage/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FREE WORKSHOP – Mutual of Omaha – Reverse Mortgage
+DTSTART;TZID=America/Phoenix:20230426T100000
+DTEND;TZID=America/Phoenix:20230426T113000
+DTSTAMP;TZID=America/Phoenix:20230323T133523
+UID:14274-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-mutual-of-
+ omaha-reverse-mortgage-2
+URL:https://suncityhoa.org/events/free-workshop-mutual-of-omaha-reverse-mo
+ rtgage-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Workshop Mutual of Omaha Reverse Mortgage
+DTSTART;TZID=America/Phoenix:20251112T100000
+DTEND;TZID=America/Phoenix:20251112T113000
+DTSTAMP;TZID=America/Phoenix:20250818T141048
+UID:18490-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-mutual-of-
+ omaha-reverse-mortgage-3
+LOCATION:10401 W Coggins Drive\, Sun City\, AZ 85351
+URL:https://suncityhoa.org/events/free-workshop-mutual-of-omaha-reverse-mo
+ rtgage-3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED – Free Workshop: The New Reverse Mortgage from A to Z
+DTSTART;TZID=America/Phoenix:20260728T100000
+DTEND;TZID=America/Phoenix:20260728T113000
+DTSTAMP;TZID=America/Phoenix:20260626T092639
+UID:20371-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-mutual-of-
+ omaha-the-new-reverse-mortgage-from-a-to-z
+URL:https://suncityhoa.org/events/free-workshop-mutual-of-omaha-the-new-re
+ verse-mortgage-from-a-to-z/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Workshop Neptune Society Lunch & Learn
+DTSTART;TZID=America/Phoenix:20250813T113000
+DTEND;TZID=America/Phoenix:20250813T123000
+DTSTAMP;TZID=America/Phoenix:20250707T141900
+UID:18333-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-neptune-so
+ ciety-lunch-learn
+LOCATION:10401 W Coggins Drive\, Sun City\, AZ 85351
+URL:https://suncityhoa.org/events/free-workshop-neptune-society-lunch-lear
+ n/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Workshop- Neptune Society Lunch & Learn
+DTSTART;TZID=America/Phoenix:20251105T113000
+DTEND;TZID=America/Phoenix:20251105T123000
+DTSTAMP;TZID=America/Phoenix:20250722T094810
+UID:18382-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-neptune-so
+ ciety-lunch-learn-2
+LOCATION:10401 W Coggins Drive\, Sun City\, AZ 85351
+URL:https://suncityhoa.org/events/free-workshop-neptune-society-lunch-lear
+ n-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Workshop New Reverse Mortgage A to Z
+DTSTART;TZID=America/Phoenix:20260114T100000
+DTEND;TZID=America/Phoenix:20260114T113000
+DTSTAMP;TZID=America/Phoenix:20251016T143130
+UID:18742-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-new-revers
+ e-mortgage-a-to-z
+URL:https://suncityhoa.org/events/free-workshop-new-reverse-mortgage-a-to-
+ z/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Workshop- New Reverse Mortgage A to Z
+DTSTART;TZID=America/Phoenix:20260326T100000
+DTEND;TZID=America/Phoenix:20260326T113000
+DTSTAMP;TZID=America/Phoenix:20251016T144508
+UID:18750-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-new-revers
+ e-mortgage-a-to-z-3
+URL:https://suncityhoa.org/events/free-workshop-new-reverse-mortgage-a-to-
+ z-3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Workshop – New Reverse Mortgage A to Z
+DTSTART;TZID=America/Phoenix:20260505T100000
+DTEND;TZID=America/Phoenix:20260505T113000
+DTSTAMP;TZID=America/Phoenix:20251016T145630
+UID:18756-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-new-revers
+ e-mortgage-a-to-z-5
+URL:https://suncityhoa.org/events/free-workshop-new-reverse-mortgage-a-to-
+ z-5/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FREE WORKSHOP: New Reverse Mortgage from A to Z
+DTSTART;TZID=America/Phoenix:20260226T100000
+DTEND;TZID=America/Phoenix:20260226T113000
+DTSTAMP;TZID=America/Phoenix:20260121T140121
+UID:19236-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-new-revers
+ e-mortgage-from-a-to-z
+URL:https://suncityhoa.org/events/free-workshop-new-reverse-mortgage-from-
+ a-to-z/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FREE Workshop: Identity Theft and Fraud Class
+DTSTART;TZID=America/Phoenix:20260514T110000
+DTEND;TZID=America/Phoenix:20260514T130000
+DTSTAMP;TZID=America/Phoenix:20260504T111718
+UID:20073-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-on-scam-an
+ d-fraud
+URL:https://suncityhoa.org/events/free-workshop-on-scam-and-fraud/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Workshop Premier Estate Planning
+DTSTART;TZID=America/Phoenix:20250508T110000
+DTEND;TZID=America/Phoenix:20250508T130000
+DTSTAMP;TZID=America/Phoenix:20250408T145014
+UID:18076-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-open-to-su
+ n-city-residents
+LOCATION:10401 W Coggins Drive\, Sun City\, AZ 85351
+URL:https://suncityhoa.org/events/free-workshop-open-to-sun-city-residents
+ /
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Workshop Changes to Medicare 2026
+DTSTART;TZID=America/Phoenix:20251022T130000
+DTEND;TZID=America/Phoenix:20251022T140000
+DTSTAMP;TZID=America/Phoenix:20250918T111513
+UID:18647-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-open-to-su
+ n-city-residents-2
+LOCATION:10401 W Coggins Drive\, Sun City\, AZ 85351
+URL:https://suncityhoa.org/events/free-workshop-open-to-sun-city-residents
+ -2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FREE WORKSHOP: Post Monsoon Roof Protocols
+DTSTART;TZID=America/Phoenix:20241119T100000
+DTEND;TZID=America/Phoenix:20241119T110000
+DTSTAMP;TZID=America/Phoenix:20241108T122936
+UID:16954-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-post-monso
+ on-roof-protocols
+URL:https://suncityhoa.org/events/free-workshop-post-monsoon-roof-protocol
+ s/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FREE WORKSHOP – PROTECTING OLDER ADULTS FROM SCAMS
+DTSTART;TZID=America/Phoenix:20240130T110000
+DTEND;TZID=America/Phoenix:20240130T130000
+DTSTAMP;TZID=America/Phoenix:20231229T105131
+UID:15444-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-protecting
+ -older-adults-from-scams
+LOCATION:10401 W Coggins Drive\, Sun City\, AZ 85351
+URL:https://suncityhoa.org/events/free-workshop-protecting-older-adults-fr
+ om-scams/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FREE WORKSHOP – RETIREMENT MASTERY FOR HOMEOWNERS
+DTSTART;TZID=America/Phoenix:20230727T093000
+DTEND;TZID=America/Phoenix:20230727T113000
+DTSTAMP;TZID=America/Phoenix:20230719T144719
+UID:14784-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-retirement
+ -mastery-for-homeowners
+LOCATION:10401 W Coggins Drive\, Sun City\, AZ 85351
+URL:https://suncityhoa.org/events/free-workshop-retirement-mastery-for-hom
+ eowners/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FREE WORKSHOP – Mutual of Omaha – Reverse Mortgage
+DTSTART;TZID=America/Phoenix:20230322T100000
+DTEND;TZID=America/Phoenix:20230322T113000
+DTSTAMP;TZID=America/Phoenix:20230301T151032
+UID:13907-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-reverse-mo
+ rtgage
+LOCATION:10401 W Coggins Drive\, Sun City\, AZ 85351
+URL:https://suncityhoa.org/events/free-workshop-reverse-mortgage/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FREE WORKSHOP – REVERSE MORTGAGE A TO Z
+DTSTART;TZID=America/Phoenix:20240222T093000
+DTEND;TZID=America/Phoenix:20240222T113000
+DTSTAMP;TZID=America/Phoenix:20240115T134643
+UID:15509-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-reverse-mo
+ rtgage-a-to-z
+LOCATION:10401 W Coggins Drive\, Sun City\, AZ 85351
+URL:https://suncityhoa.org/events/free-workshop-reverse-mortgage-a-to-z/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FREE WORKSHOP – Reverse Mortgage A To Z
+DTSTART;TZID=America/Phoenix:20240411T093000
+DTEND;TZID=America/Phoenix:20240411T113000
+DTSTAMP;TZID=America/Phoenix:20240115T135848
+UID:15512-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-reverse-mo
+ rtgage-a-to-z-2
+LOCATION:10401 W Coggins Drive\, Sun City\, AZ 85351
+URL:https://suncityhoa.org/events/free-workshop-reverse-mortgage-a-to-z-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FREE WORKSHOP – Reverse Mortgage A To Z
+DTSTART;TZID=America/Phoenix:20240606T093000
+DTEND;TZID=America/Phoenix:20240606T113000
+DTSTAMP;TZID=America/Phoenix:20240115T141814
+UID:15521-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-reverse-mo
+ rtgage-a-to-z-3
+LOCATION:10401 W Coggins Drive\, Sun City\, AZ 85351
+URL:https://suncityhoa.org/events/free-workshop-reverse-mortgage-a-to-z-3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FREE WORKSHOP – REVERSE MORTGAGE A TO Z
+DTSTART;TZID=America/Phoenix:20231025T093000
+DTEND;TZID=America/Phoenix:20231025T113000
+DTSTAMP;TZID=America/Phoenix:20230914T103107
+UID:15105-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-reverse-mo
+ rtgage-a-z
+LOCATION:10401 W Coggins Drive\, Sun City\, AZ 85351
+URL:https://suncityhoa.org/events/free-workshop-reverse-mortgage-a-z/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FREE WORKSHOP – REVERSE MORTGAGE A-Z
+DTSTART;TZID=America/Phoenix:20231207T093000
+DTEND;TZID=America/Phoenix:20231207T113000
+DTSTAMP;TZID=America/Phoenix:20231019T122726
+UID:15242-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-reverse-mo
+ rtgage-a-z-2
+LOCATION:10401 W Coggins Drive\, Sun City\, AZ 85351
+URL:https://suncityhoa.org/events/free-workshop-reverse-mortgage-a-z-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FREE WORKSHOP!! Reverse Mortgage Loans – A to Z
+DTSTART;TZID=America/Phoenix:20230914T093000
+DTEND;TZID=America/Phoenix:20230914T113000
+DTSTAMP;TZID=America/Phoenix:20230817T110247
+UID:14998-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-reverse-mo
+ rtgage-loans-a-to-z
+LOCATION:10401 W Coggins Drive\, Sun City\, AZ 85351
+URL:https://suncityhoa.org/events/free-workshop-reverse-mortgage-loans-a-t
+ o-z/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FREE WORKSHOP – ROOFING EDUCATION
+DTSTART;TZID=America/Phoenix:20230816T093000
+DTEND;TZID=America/Phoenix:20230816T103000
+DTSTAMP;TZID=America/Phoenix:20230721T095145
+UID:14812-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-roof-maint
+ enance-issues
+LOCATION:10401 W Coggins Drive\, Sun City\, AZ 85351
+URL:https://suncityhoa.org/events/free-workshop-roof-maintenance-issues/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Workshop-Secure Your Home Workshop
+DTSTART;TZID=America/Phoenix:20250327T100000
+DTEND;TZID=America/Phoenix:20250327T110000
+DTSTAMP;TZID=America/Phoenix:20250221T095513
+UID:17780-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-secure-you
+ r-home-workshop
+LOCATION:10401 W Coggins Drive\, Sun City\, AZ 85351
+URL:https://suncityhoa.org/events/free-workshop-secure-your-home-workshop/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FREE Workshop: Senior Living Options
+DTSTART;TZID=America/Phoenix:20260225T100000
+DTEND;TZID=America/Phoenix:20260225T113000
+DTSTAMP;TZID=America/Phoenix:20260227T121838
+UID:19577-events@suncityhoa.org
+RDATE;TZID=America/Phoenix;VALUE=PERIOD:20260325T100000/20260325T113000
+DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-senior-liv
+ ing-options
+URL:https://suncityhoa.org/events/free-workshop-senior-living-options/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Workshop- The New Reverse Mortgage – A to Z
+DTSTART;TZID=America/Phoenix:20250924T093000
+DTEND;TZID=America/Phoenix:20250924T110000
+DTSTAMP;TZID=America/Phoenix:20250722T094224
+UID:18379-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-the-new-re
+ verse-mortgage-a-to-z
+LOCATION:10401 W Coggins Drive\, Sun City\, AZ 85351
+URL:https://suncityhoa.org/events/free-workshop-the-new-reverse-mortgage-a
+ -to-z/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FREE WORKSHOP – The Real Facts About Reverse Mortgages
+DTSTART;TZID=America/Phoenix:20230524T100000
+DTEND;TZID=America/Phoenix:20230524T113000
+DTSTAMP;TZID=America/Phoenix:20230428T111120
+UID:14468-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-the-real-f
+ acts-about-reverse-mortgages
+LOCATION:10401 W Coggins Drive\, Sun City\, AZ 85351
+URL:https://suncityhoa.org/events/free-workshop-the-real-facts-about-rever
+ se-mortgages/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FREE WORKSHOP – THE REAL FACTS ABOUT REVERSE MORTGAGES
+DTSTART;TZID=America/Phoenix:20230824T100000
+DTEND;TZID=America/Phoenix:20230824T113000
+DTSTAMP;TZID=America/Phoenix:20230626T111932
+UID:14741-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-the-real-f
+ acts-about-reverse-mortgages-2
+URL:https://suncityhoa.org/events/free-workshop-the-real-facts-about-rever
+ se-mortgages-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FREE WORKSHOP – Top 10 Estate Planning Mistakes
+DTSTART;TZID=America/Phoenix:20230307T120000
+DTEND;TZID=America/Phoenix:20230307T140000
+DTSTAMP;TZID=America/Phoenix:20230301T151757
+UID:13918-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-top-10-est
+ ate-planning-mistakes
+LOCATION:10401 W Coggins Drive\, Sun City\, AZ 85351
+URL:https://suncityhoa.org/events/free-workshop-top-10-estate-planning-mis
+ takes/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FREE WORKSHOP – VERA BOND – 72SOLD-Hague Partners Senior Real 
+ Estate Specialists
+DTSTART;TZID=America/Phoenix:20230614T100000
+DTEND;TZID=America/Phoenix:20230614T120000
+DTSTAMP;TZID=America/Phoenix:20230518T105346
+UID:14596-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-vera-bond-
+ 72sold-hague-partners-senior-real-estate-specialists
+LOCATION:10401 W Coggins Drive\, Sun City\, AZ 85351
+URL:https://suncityhoa.org/events/free-workshop-vera-bond-72sold-hague-par
+ tners-senior-real-estate-specialists/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Workshop- We Save Roofs
+DTSTART;TZID=America/Phoenix:20251009T110000
+DTEND;TZID=America/Phoenix:20251009T130000
+DTSTAMP;TZID=America/Phoenix:20250925T114925
+UID:18673-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-we-save-ro
+ ofs
+URL:https://suncityhoa.org/events/free-workshop-we-save-roofs/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FREE WORKSHOP – We Want Your Timeshare
+DTSTART;TZID=America/Phoenix:20230405T100000
+DTEND;TZID=America/Phoenix:20230405T120000
+DTSTAMP;TZID=America/Phoenix:20230316T143730
+UID:14234-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-we-want-yo
+ ur-timeshare
+URL:https://suncityhoa.org/events/free-workshop-we-want-your-timeshare/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FREE Workshop: What to Know about Senior Living Options
+DTSTART;TZID=America/Phoenix:20260528T100000
+DTEND;TZID=America/Phoenix:20260528T113000
+DTSTAMP;TZID=America/Phoenix:20260512T140253
+UID:20153-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-what-to-kn
+ ow-about-senior-living-options
+URL:https://suncityhoa.org/events/free-workshop-what-to-know-about-senior-
+ living-options/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FREE Workshop: Whole Home Efficiency Program
+DTSTART;TZID=America/Phoenix:20260513T100000
+DTEND;TZID=America/Phoenix:20260513T120000
+DTSTAMP;TZID=America/Phoenix:20260429T104007
+UID:20053-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-whole-home
+ -efficiency-program
+URL:https://suncityhoa.org/events/free-workshop-whole-home-efficiency-prog
+ ram/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FREE Workshop: You CAN Prevent Falls
+DTSTART;TZID=America/Phoenix:20260507T100000
+DTEND;TZID=America/Phoenix:20260507T113000
+DTSTAMP;TZID=America/Phoenix:20260428T132513
+UID:20047-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-you-can-pr
+ event-falls
+URL:https://suncityhoa.org/events/free-workshop-you-can-prevent-falls/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Happy St. Patrick’s Day!
+DTSTART;VALUE=DATE:20230317
+DTEND;VALUE=DATE:20230317
+DTSTAMP;TZID=America/Phoenix:20230301T152318
+UID:13923-events@suncityhoa.org
+RRULE:FREQ=YEARLY;INTERVAL=1
+DESCRIPTION:Source: https://suncityhoa.org/events/happy-st-patricks-day
+URL:https://suncityhoa.org/events/happy-st-patricks-day/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Happy Valentine’s Day!
+DTSTART;VALUE=DATE:20260214
+DTEND;VALUE=DATE:20260214
+DTSTAMP;TZID=America/Phoenix:20260206T092809
+UID:19354-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/happy-valentines-day
+URL:https://suncityhoa.org/events/happy-valentines-day/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Homelessness & Panhandling Townhall
+DTSTART;TZID=America/Phoenix:20260313T083000
+DTEND;TZID=America/Phoenix:20260313T100000
+DTSTAMP;TZID=America/Phoenix:20260206T100004
+UID:19376-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/homelessness-panhandling
+ -townhall
+URL:https://suncityhoa.org/events/homelessness-panhandling-townhall/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How Does Medicare Work and What Are My Choices?
+DTSTART;TZID=America/Phoenix:20240927T100000
+DTEND;TZID=America/Phoenix:20240927T110000
+DTSTAMP;TZID=America/Phoenix:20240829T111228
+UID:16410-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/how-does-medicare-work-a
+ nd-what-are-my-choices
+URL:https://suncityhoa.org/events/how-does-medicare-work-and-what-are-my-c
+ hoices/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AZ REGISTRAR OF CONTRACTORS – PROTECT YOURSELF FROM SCAMS
+DTSTART;TZID=America/Phoenix:20231107T100000
+DTEND;TZID=America/Phoenix:20231107T110000
+DTSTAMP;TZID=America/Phoenix:20230724T095810
+UID:14834-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/informational-conference
+ -az-roc
+LOCATION:14801 N 103rd Ave\, Sun City\, AZ  85351
+URL:https://suncityhoa.org/events/informational-conference-az-roc/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lifestyle Senior Expo
+DTSTART;TZID=America/Phoenix:20241116T080000
+DTEND;TZID=America/Phoenix:20241116T120000
+DTSTAMP;TZID=America/Phoenix:20240212T144315
+UID:15598-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/lifestyle-senior-expo
+LOCATION:14801 N 103rd Ave\, Sun City\, AZ  85351
+URL:https://suncityhoa.org/events/lifestyle-senior-expo/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lions Clubs Host Food Drive
+DTSTART;TZID=America/Phoenix:20250412T090000
+DTEND;TZID=America/Phoenix:20250412T120000
+DTSTAMP;TZID=America/Phoenix:20250324T114926
+UID:17978-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/lions-clubs-host-food-dr
+ ive
+URL:https://suncityhoa.org/events/lions-clubs-host-food-drive/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunch and Solar Educational Seminar
+DTSTART;TZID=America/Phoenix:20240910T120000
+DTEND;TZID=America/Phoenix:20240910T140000
+DTSTAMP;TZID=America/Phoenix:20240828T144349
+UID:16396-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/lunch-and-solar-educatio
+ nal-seminar
+URL:https://suncityhoa.org/events/lunch-and-solar-educational-seminar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunch & Learn: Avoiding Online Scams
+DTSTART;TZID=America/Phoenix:20260409T110000
+DTEND;TZID=America/Phoenix:20260409T130000
+DTSTAMP;TZID=America/Phoenix:20260317T102840
+UID:19809-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/lunch-learn-avoiding-onl
+ ine-scams
+URL:https://suncityhoa.org/events/lunch-learn-avoiding-online-scams/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FREE WORKSHOP – Lunch & Learn with Green Muscle Solar – learn 
+ how they can save you money!
+DTSTART;TZID=America/Phoenix:20240328T100000
+DTEND;TZID=America/Phoenix:20240328T120000
+DTSTAMP;TZID=America/Phoenix:20240214T141106
+UID:15606-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/lunch-learn-on-green-mus
+ cle-solar-and-learn-how-it-can-save-you-money
+LOCATION:10401 W Coggins Drive\, Sun City\, AZ 85351
+URL:https://suncityhoa.org/events/lunch-learn-on-green-muscle-solar-and-le
+ arn-how-it-can-save-you-money/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maricopa County Transportation Public Open House
+DTSTART;TZID=America/Phoenix:20260305T120000
+DTEND;TZID=America/Phoenix:20260305T140000
+DTSTAMP;TZID=America/Phoenix:20260220T111117
+UID:19540-events@suncityhoa.org
+RDATE;TZID=America/Phoenix;VALUE=PERIOD:20260302T120000/20260302T140000
+DESCRIPTION:Source: https://suncityhoa.org/events/maricopa-county-transpor
+ tation-public-open-house
+URL:https://suncityhoa.org/events/maricopa-county-transportation-public-op
+ en-house/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Humana Workshop- Medicare 101- Are you ready?
+DTSTART;TZID=America/Phoenix:20250909T100000
+DTEND;TZID=America/Phoenix:20250909T110000
+DTSTAMP;TZID=America/Phoenix:20250213T111204
+UID:17634-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/medicare-101-are-you-rea
+ dy
+LOCATION:10401 W Coggins Drive\, Sun City\, AZ 85351
+URL:https://suncityhoa.org/events/medicare-101-are-you-ready/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Workshop – Medicare 101 – Can I Travel Nationwide?
+DTSTART;TZID=America/Phoenix:20250603T100000
+DTEND;TZID=America/Phoenix:20250603T110000
+DTSTAMP;TZID=America/Phoenix:20250213T110549
+UID:17631-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/medicare-101-can-i-trave
+ l-nationwide
+LOCATION:10401 W Coggins Drive\, Sun City\, AZ 85351
+URL:https://suncityhoa.org/events/medicare-101-can-i-travel-nationwide/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Workshop- Medicare 101- Changes & Choices 2026: ANOC’s
+DTSTART;TZID=America/Phoenix:20251007T100000
+DTEND;TZID=America/Phoenix:20251007T110000
+DTSTAMP;TZID=America/Phoenix:20250213T111539
+UID:17639-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/medicare-101-changes-cho
+ ices-2026-anocs
+LOCATION:10401 W Coggins Drive\, Sun City\, AZ 85351
+URL:https://suncityhoa.org/events/medicare-101-changes-choices-2026-anocs/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Medicare 101 FREE WORKSHOP
+DTSTART;TZID=America/Phoenix:20241024T093000
+DTEND;TZID=America/Phoenix:20241024T110000
+DTSTAMP;TZID=America/Phoenix:20241015T094749
+UID:16707-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/medicare-101-free-worksh
+ op
+URL:https://suncityhoa.org/events/medicare-101-free-workshop/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Workshop-Medicare Costs & Co-Pays Explained
+DTSTART;TZID=America/Phoenix:20250415T100000
+DTEND;TZID=America/Phoenix:20250415T110000
+DTSTAMP;TZID=America/Phoenix:20250213T105919
+UID:17623-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/medicare-costs-co-pays-e
+ xplained
+LOCATION:10401 W Coggins Drive\, Sun City\, AZ 85351
+URL:https://suncityhoa.org/events/medicare-costs-co-pays-explained/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Medicare OEP\, What is it?
+DTSTART;TZID=America/Phoenix:20250108T130000
+DTEND;TZID=America/Phoenix:20250108T150000
+DTSTAMP;TZID=America/Phoenix:20241212T113853
+UID:17214-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/medicare-oep-what-is-it
+LOCATION:10401 W Coggins Drive\, Sun City\, AZ 85351
+URL:https://suncityhoa.org/events/medicare-oep-what-is-it/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Memorial Day – Office Closed
+DTSTART;VALUE=DATE:20240527
+DTEND;VALUE=DATE:20240527
+DTSTAMP;TZID=America/Phoenix:20240409T090614
+UID:15810-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/memorial-day-office-clos
+ ed
+URL:https://suncityhoa.org/events/memorial-day-office-closed/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Merry & Bright Registration Begins
+DTSTART;VALUE=DATE:20251104
+DTEND;VALUE=DATE:20251104
+DTSTAMP;TZID=America/Phoenix:20251101T190145
+UID:18886-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/merry-bright-christmas-l
+ ights-registration-begins
+URL:https://suncityhoa.org/events/merry-bright-christmas-lights-registrati
+ on-begins/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Merry & Bright Registration Ends
+DTSTART;VALUE=DATE:20251204
+DTEND;VALUE=DATE:20251204
+DTSTAMP;TZID=America/Phoenix:20251101T190513
+UID:18889-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/merry-bright-christmas-l
+ ights-registration-ends
+URL:https://suncityhoa.org/events/merry-bright-christmas-lights-registrati
+ on-ends/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Merry &  Bright:  People’s Choice Voting Begins!
+DTSTART;VALUE=DATE:20241218
+DTEND;VALUE=DATE:20241218
+DTSTAMP;TZID=America/Phoenix:20241205T165705
+UID:17191-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/merry-bright-peoples-cho
+ ice-voting-begins
+URL:https://suncityhoa.org/events/merry-bright-peoples-choice-voting-begin
+ s/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Merry & Bright:  People’s Choice Voting Ends
+DTSTART;VALUE=DATE:20241229
+DTEND;VALUE=DATE:20241229
+DTSTAMP;TZID=America/Phoenix:20241205T165936
+UID:17196-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/merry-bright-peoples-cho
+ ice-voting-ends
+URL:https://suncityhoa.org/events/merry-bright-peoples-choice-voting-ends/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Merry & Bright Winners Announced
+DTSTART;VALUE=DATE:20241230
+DTEND;VALUE=DATE:20241230
+DTSTAMP;TZID=America/Phoenix:20241205T170029
+UID:17199-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/merry-bright-winners-ann
+ ounced
+URL:https://suncityhoa.org/events/merry-bright-winners-announced/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Movement Mortage
+DTSTART;TZID=America/Phoenix:20250127T093000
+DTEND;TZID=America/Phoenix:20250127T113000
+DTSTAMP;TZID=America/Phoenix:20241212T114624
+UID:17220-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/movement-mortage
+LOCATION:10401 W Coggins Drive\, Sun City\, AZ 85351
+URL:https://suncityhoa.org/events/movement-mortage/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Museum Hosts Del Webb Birthday Party
+DTSTART;TZID=America/Phoenix:20250517T100000
+DTEND;TZID=America/Phoenix:20250517T130000
+DTSTAMP;TZID=America/Phoenix:20250516T095321
+UID:18200-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/museum-hosts-del-webb-bi
+ rthday-party
+URL:https://suncityhoa.org/events/museum-hosts-del-webb-birthday-party/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mutual of Omaha- Reverse Mortage
+DTSTART;TZID=America/Phoenix:20250204T100000
+DTEND;TZID=America/Phoenix:20250204T113000
+DTSTAMP;TZID=America/Phoenix:20241212T115223
+UID:17223-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/mutual-of-omaha-reverse-
+ mortage
+LOCATION:10401 W Coggins Drive\, Sun City\, AZ 85351
+URL:https://suncityhoa.org/events/mutual-of-omaha-reverse-mortage/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Workshop-Mutual of Omaha- Reverse Mortgage
+DTSTART;TZID=America/Phoenix:20250311T100000
+DTEND;TZID=America/Phoenix:20250311T113000
+DTSTAMP;TZID=America/Phoenix:20241212T131618
+UID:17241-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/mutual-of-omaha-reverse-
+ mortgage
+LOCATION:10401 W Coggins Drive\, Sun City\, AZ 85351
+URL:https://suncityhoa.org/events/mutual-of-omaha-reverse-mortgage/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Workshop-Mutual of Omaha- Reverse Mortgage
+DTSTART;TZID=America/Phoenix:20250408T100000
+DTEND;TZID=America/Phoenix:20250408T113000
+DTSTAMP;TZID=America/Phoenix:20241212T131818
+UID:17244-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/mutual-of-omaha-reverse-
+ mortgage-2
+LOCATION:10401 W Coggins Drive\, Sun City\, AZ 85351
+URL:https://suncityhoa.org/events/mutual-of-omaha-reverse-mortgage-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Workshop-Neptune Society
+DTSTART;TZID=America/Phoenix:20250417T113000
+DTEND;TZID=America/Phoenix:20250417T130000
+DTSTAMP;TZID=America/Phoenix:20241218T141519
+UID:17327-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/neptune-society
+LOCATION:10401 W Coggins Drive\, Sun City\, AZ 85351
+URL:https://suncityhoa.org/events/neptune-society/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New Residents Orientation
+DTSTART;TZID=America/Phoenix:20241008T100000
+DTEND;TZID=America/Phoenix:20241008T120000
+DTSTAMP;TZID=America/Phoenix:20240916T124817
+UID:16461-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/new-resident-orientation
+URL:https://suncityhoa.org/events/new-resident-orientation/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NEW RESIDENTS ORIENTATION
+DTSTART;TZID=America/Phoenix:20231006T100000
+DTEND;TZID=America/Phoenix:20231006T120000
+DTSTAMP;TZID=America/Phoenix:20230724T094849
+UID:14830-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/new-residents-orientatio
+ n
+LOCATION:9350 W Greenway Rd\, Sun City\, AZ  85351
+URL:https://suncityhoa.org/events/new-residents-orientation/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New Years – Office Closed
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20260103
+DTSTAMP;TZID=America/Phoenix:20251218T095625
+UID:19119-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/new-years-office-closed
+URL:https://suncityhoa.org/events/new-years-office-closed/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Office Closed – Christmas
+DTSTART;VALUE=DATE:20231225
+DTEND;VALUE=DATE:20231225
+DTSTAMP;TZID=America/Phoenix:20230301T153748
+UID:13951-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/office-closed-christmas
+URL:https://suncityhoa.org/events/office-closed-christmas/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Office Closed due to Resident Orienation at Sundial
+DTSTART;VALUE=DATE:20251107
+DTEND;VALUE=DATE:20251107
+DTSTAMP;TZID=America/Phoenix:20251101T191526
+UID:18898-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/office-closed-due-to-res
+ ident-orienation-at-sundial
+URL:https://suncityhoa.org/events/office-closed-due-to-resident-orienation
+ -at-sundial/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Office Closed for Homelessness Town Hall
+DTSTART;TZID=America/Phoenix:20260313T090000
+DTEND;TZID=America/Phoenix:20260313T120000
+DTSTAMP;TZID=America/Phoenix:20260302T094803
+UID:19585-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/office-closed-for-homele
+ ssness-town-hall
+URL:https://suncityhoa.org/events/office-closed-for-homelessness-town-hall
+ /
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Office Closed in observance of Veterans Day
+DTSTART;VALUE=DATE:20231110
+DTEND;VALUE=DATE:20231110
+DTSTAMP;TZID=America/Phoenix:20230922T125812
+UID:15145-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/office-closed-in-observa
+ nce-of-veterans-day
+URL:https://suncityhoa.org/events/office-closed-in-observance-of-veterans-
+ day/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Office Closed – Independence Day
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20260703
+DTSTAMP;TZID=America/Phoenix:20230301T153358
+UID:13936-events@suncityhoa.org
+RRULE:FREQ=YEARLY;INTERVAL=1
+EXDATE:20260704
+DESCRIPTION:Source: https://suncityhoa.org/events/office-closed-independen
+ ce-day
+URL:https://suncityhoa.org/events/office-closed-independence-day/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Office Closed – Labor Day
+DTSTART;VALUE=DATE:20230904
+DTEND;VALUE=DATE:20230904
+DTSTAMP;TZID=America/Phoenix:20230301T153428
+UID:13939-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/office-closed-labor-day
+URL:https://suncityhoa.org/events/office-closed-labor-day/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Office Closed – Labor Day
+DTSTART;VALUE=DATE:20250901
+DTEND;VALUE=DATE:20250901
+DTSTAMP;TZID=America/Phoenix:20250429T101844
+UID:18146-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/office-closed-labor-day-
+ 2
+URL:https://suncityhoa.org/events/office-closed-labor-day-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Office Closed – Labor Day
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260907
+DTSTAMP;TZID=America/Phoenix:20260206T102714
+UID:19381-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/office-closed-labor-day-
+ 3
+URL:https://suncityhoa.org/events/office-closed-labor-day-3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Memorial Day – Office Closed
+DTSTART;VALUE=DATE:20250526
+DTEND;VALUE=DATE:20250526
+DTSTAMP;TZID=America/Phoenix:20250429T080549
+UID:18133-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/office-closed-memorial-d
+ ay
+URL:https://suncityhoa.org/events/office-closed-memorial-day/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Office Closed – Memorial Day
+DTSTART;VALUE=DATE:20230529
+DTEND;VALUE=DATE:20230529
+DTSTAMP;TZID=America/Phoenix:20230301T153325
+UID:13933-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/office-closed-memorial-d
+ ay-2
+URL:https://suncityhoa.org/events/office-closed-memorial-day-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Office Closed – Memorial Day
+DTSTART;VALUE=DATE:20260525
+DTEND;VALUE=DATE:20260525
+DTSTAMP;TZID=America/Phoenix:20251104T123217
+UID:18933-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/office-closed-memorial-d
+ ay-3
+URL:https://suncityhoa.org/events/office-closed-memorial-day-3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Office Closed – President’s Day
+DTSTART;VALUE=DATE:20230220
+DTEND;VALUE=DATE:20230220
+DTSTAMP;TZID=America/Phoenix:20230215T135053
+UID:13854-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/office-closed-presidents
+ -day
+URL:https://suncityhoa.org/events/office-closed-presidents-day/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Office Closed – Presidents’ Day
+DTSTART;VALUE=DATE:20260216
+DTEND;VALUE=DATE:20260216
+DTSTAMP;TZID=America/Phoenix:20251104T123011
+UID:18930-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/office-closed-presidents
+ -day-2
+URL:https://suncityhoa.org/events/office-closed-presidents-day-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Office Closed – Thanksgiving
+DTSTART;VALUE=DATE:20231123
+DTEND;VALUE=DATE:20231125
+DTSTAMP;TZID=America/Phoenix:20230301T153711
+UID:13948-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/office-closed-thanksgivi
+ ng
+URL:https://suncityhoa.org/events/office-closed-thanksgiving/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thanksgiving – Office Closed
+DTSTART;VALUE=DATE:20251127
+DTEND;VALUE=DATE:20251129
+DTSTAMP;TZID=America/Phoenix:20250429T104257
+UID:18154-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/office-closed-thanksgivi
+ ng-2
+URL:https://suncityhoa.org/events/office-closed-thanksgiving-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Office Closed: Thanksgiving
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261128
+DTSTAMP;TZID=America/Phoenix:20260206T103025
+UID:19389-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/office-closed-thanksgivi
+ ng-3
+URL:https://suncityhoa.org/events/office-closed-thanksgiving-3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:COFFEE CHAT – Online Safety for Seniors – RSVP required
+DTSTART;TZID=America/Phoenix:20240305T100000
+DTEND;TZID=America/Phoenix:20240305T110000
+DTSTAMP;TZID=America/Phoenix:20240212T134414
+UID:15588-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/online-safety-for-senior
+ s
+LOCATION:10401 W Coggins Drive\, Sun City\, AZ 85351
+URL:https://suncityhoa.org/events/online-safety-for-seniors/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Posse Drug Take Back Event
+DTSTART;TZID=America/Phoenix:20260425T090000
+DTEND;TZID=America/Phoenix:20260425T140000
+DTSTAMP;TZID=America/Phoenix:20260206T103621
+UID:19397-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/posse-drug-take-back-eve
+ nt
+URL:https://suncityhoa.org/events/posse-drug-take-back-event/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Posse Shred-a-thon
+DTSTART;TZID=America/Phoenix:20260425T090000
+DTEND;TZID=America/Phoenix:20260425T120000
+DTSTAMP;TZID=America/Phoenix:20260206T103353
+UID:19393-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/posse-shred-a-thon
+URL:https://suncityhoa.org/events/posse-shred-a-thon/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:President’s Day – Office Closed
+DTSTART;VALUE=DATE:20250217
+DTEND;VALUE=DATE:20250217
+DTSTAMP;TZID=America/Phoenix:20240409T091646
+UID:15826-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/presidents-day-office-cl
+ osed
+URL:https://suncityhoa.org/events/presidents-day-office-closed/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FREE EDUCATIONAL SOLAR WORKSHOP!!
+DTSTART;TZID=America/Phoenix:20230913T120000
+DTEND;TZID=America/Phoenix:20230913T140000
+DTSTAMP;TZID=America/Phoenix:20230814T134531
+UID:14925-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/rescheduled-free-worksho
+ p
+LOCATION:10401 W Coggins Drive\, Sun City\, AZ 85351
+URL:https://suncityhoa.org/events/rescheduled-free-workshop/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Retirement University:  Medicare & Maximizing Your Retirement
+DTSTART;TZID=America/Phoenix:20241106T120000
+DTEND;TZID=America/Phoenix:20241106T130000
+DTSTAMP;TZID=America/Phoenix:20241022T151758
+UID:16738-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/retirement-university-me
+ dicare-maximizing-your-retirement
+URL:https://suncityhoa.org/events/retirement-university-medicare-maximizin
+ g-your-retirement/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reverse Mortgage Loans – A to Z
+DTSTART;TZID=America/Phoenix:20240919T093000
+DTEND;TZID=America/Phoenix:20240919T113000
+DTSTAMP;TZID=America/Phoenix:20240829T104138
+UID:16404-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/reverse-mortgage-loans-a
+ -to-z
+URL:https://suncityhoa.org/events/reverse-mortgage-loans-a-to-z/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ring that Bell Fourth of July Event
+DTSTART;TZID=America/Phoenix:20250704T090000
+DTEND;TZID=America/Phoenix:20250704T130000
+DTSTAMP;TZID=America/Phoenix:20250623T145402
+UID:18270-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/ring-that-bell-fourth-of
+ -july-event
+URL:https://suncityhoa.org/events/ring-that-bell-fourth-of-july-event/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ring that Bell Independence Day Event
+DTSTART;TZID=America/Phoenix:20260704T083000
+DTEND;TZID=America/Phoenix:20260704T130000
+DTSTAMP;TZID=America/Phoenix:20260602T122855
+UID:20309-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/ring-that-bell-independe
+ nce-day-event
+URL:https://suncityhoa.org/events/ring-that-bell-independence-day-event/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Roads and Safety Committee
+DTSTART;TZID=America/Phoenix:20251119T100000
+DTEND;TZID=America/Phoenix:20251119T110000
+DTSTAMP;TZID=America/Phoenix:20251117T122154
+UID:18957-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/roads-and-safety-committ
+ ee
+URL:https://suncityhoa.org/events/roads-and-safety-committee/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Roads and Safety Meeting
+DTSTART;TZID=America/Phoenix:20241120T100000
+DTEND;TZID=America/Phoenix:20241120T110000
+DTSTAMP;TZID=America/Phoenix:20241114T100239
+UID:16996-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/roads-and-safety-meeting
+URL:https://suncityhoa.org/events/roads-and-safety-meeting/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Roads & Safety Meeting
+DTSTART;TZID=America/Phoenix:20230215T100000
+DTEND;TZID=America/Phoenix:20230215T110000
+DTSTAMP;TZID=America/Phoenix:20230215T134747
+UID:13851-events@suncityhoa.org
+RRULE:FREQ=MONTHLY;INTERVAL=1;BYDAY=3WE;BYMONTH=1,2,3,4,5,9,10,12
+DESCRIPTION:Source: https://suncityhoa.org/events/roads-safety-meeting
+LOCATION:10401 W Coggins Drive\, Sun City\, AZ 85351
+URL:https://suncityhoa.org/events/roads-safety-meeting/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Safety & Fraud Summit at Sundial Rec Center
+DTSTART;TZID=America/Phoenix:20231115T090000
+DTEND;TZID=America/Phoenix:20231115T120000
+DTSTAMP;TZID=America/Phoenix:20231102T140830
+UID:15305-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/safety-fraud-summit-at-s
+ undial-rec-center
+URL:https://suncityhoa.org/events/safety-fraud-summit-at-sundial-rec-cente
+ r/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Workshop-Scams & Telemarketing – How to avoid them?
+DTSTART;TZID=America/Phoenix:20250506T100000
+DTEND;TZID=America/Phoenix:20250506T110000
+DTSTAMP;TZID=America/Phoenix:20250213T110318
+UID:17626-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/scams-telemarketing-how-
+ to-avoid-them
+LOCATION:10401 W Coggins Drive\, Sun City\, AZ 85351
+URL:https://suncityhoa.org/events/scams-telemarketing-how-to-avoid-them/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sun City Safety & Fraud Townhall
+DTSTART;TZID=America/Phoenix:20251008T090000
+DTEND;TZID=America/Phoenix:20251008T120000
+DTSTAMP;TZID=America/Phoenix:20250429T103945
+UID:18149-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/scams-townhall
+URL:https://suncityhoa.org/events/scams-townhall/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SCHOA 2023 Annual Meeting
+DTSTART;TZID=America/Phoenix:20230111T093000
+DTEND;TZID=America/Phoenix:20230111T113000
+DTSTAMP;TZID=America/Phoenix:20221223T071954
+UID:13660-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/schoa-2023-annual-meetin
+ g
+URL:https://suncityhoa.org/events/schoa-2023-annual-meeting/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SCHOA Annual Meeting
+DTSTART;TZID=America/Phoenix:20240110T100000
+DTEND;TZID=America/Phoenix:20240110T120000
+DTSTAMP;TZID=America/Phoenix:20230922T131500
+UID:15160-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/schoa-annual-meeting
+URL:https://suncityhoa.org/events/schoa-annual-meeting/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SCHOA Annual Meeting
+DTSTART;TZID=America/Phoenix:20250109T100000
+DTEND;TZID=America/Phoenix:20250109T120000
+DTSTAMP;TZID=America/Phoenix:20241126T131315
+UID:17124-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/schoa-annual-meeting-2
+LOCATION:Fairway Recreation Center
+URL:https://suncityhoa.org/events/schoa-annual-meeting-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SCHOA Annual Meeting
+DTSTART;TZID=America/Phoenix:20260106T090000
+DTEND;TZID=America/Phoenix:20260106T110000
+DTSTAMP;TZID=America/Phoenix:20251104T122356
+UID:18921-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/schoa-annual-meeting-3
+URL:https://suncityhoa.org/events/schoa-annual-meeting-3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SCHOA Board Election: Candidate Packets Now Available
+DTSTART;VALUE=DATE:20250707
+DTEND;VALUE=DATE:20250707
+DTSTAMP;TZID=America/Phoenix:20250630T091034
+UID:18303-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/schoa-board-election-can
+ didate-packets-now-available
+URL:https://suncityhoa.org/events/schoa-board-election-candidate-packets-n
+ ow-available/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SCHOA Board Election: Last Day to Submit Candidate Application
+DTSTART;VALUE=DATE:20250929
+DTEND;VALUE=DATE:20250929
+DTSTAMP;TZID=America/Phoenix:20250630T091423
+UID:18306-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/schoa-board-election-las
+ t-day-to-submit-candidate-application
+URL:https://suncityhoa.org/events/schoa-board-election-last-day-to-submit-
+ candidate-application/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SCHOA Board Election: Voting Begins
+DTSTART;VALUE=DATE:20251102
+DTEND;VALUE=DATE:20251102
+DTSTAMP;TZID=America/Phoenix:20250630T092400
+UID:18311-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/schoa-board-election-vot
+ ing-begins
+URL:https://suncityhoa.org/events/schoa-board-election-voting-begins/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SCHOA Board Election:  Voting Ends at Midnight!
+DTSTART;VALUE=DATE:20251116
+DTEND;VALUE=DATE:20251116
+DTSTAMP;TZID=America/Phoenix:20250630T092711
+UID:18314-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/schoa-board-election-vot
+ ing-ends-at-midnight
+URL:https://suncityhoa.org/events/schoa-board-election-voting-ends-at-midn
+ ight/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SCHOA/COA/RCSC Resident Orientation
+DTSTART;TZID=America/Phoenix:20260306T090000
+DTEND;TZID=America/Phoenix:20260306T110000
+DTSTAMP;TZID=America/Phoenix:20251104T122653
+UID:18924-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/schoa-coa-rcsc-resident-
+ orientation
+URL:https://suncityhoa.org/events/schoa-coa-rcsc-resident-orientation/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SCHOA Holiday Closure – Christmas 2022
+DTSTART;VALUE=DATE:20221226
+DTEND;VALUE=DATE:20221226
+DTSTAMP;TZID=America/Phoenix:20221223T062759
+UID:13653-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/schoa-holiday-closure
+URL:https://suncityhoa.org/events/schoa-holiday-closure/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SCHOA Office Closed
+DTSTART;TZID=America/Phoenix:20260306T090000
+DTEND;TZID=America/Phoenix:20260306T120000
+DTSTAMP;TZID=America/Phoenix:20251104T122821
+UID:18927-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/schoa-office-closed
+URL:https://suncityhoa.org/events/schoa-office-closed/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SCHOA Office closed due to EXPO
+DTSTART;VALUE=DATE:20231101
+DTEND;VALUE=DATE:20231101
+DTSTAMP;TZID=America/Phoenix:20230922T133858
+UID:15167-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/schoa-office-closed-due-
+ to-expo
+URL:https://suncityhoa.org/events/schoa-office-closed-due-to-expo/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SCHOA Office Closed for Day of Service
+DTSTART;VALUE=DATE:20260327
+DTEND;VALUE=DATE:20260327
+DTSTAMP;TZID=America/Phoenix:20251218T100219
+UID:19126-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/schoa-office-closed-for-
+ day-of-service
+URL:https://suncityhoa.org/events/schoa-office-closed-for-day-of-service/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SCHOA Office Closed – New Years 2023
+DTSTART;VALUE=DATE:20230102
+DTEND;VALUE=DATE:20230102
+DTSTAMP;TZID=America/Phoenix:20221223T071607
+UID:13657-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/schoa-office-closed-new-
+ years-2023
+URL:https://suncityhoa.org/events/schoa-office-closed-new-years-2023/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SCHOA/PORA Legislative Forum
+DTSTART;TZID=America/Phoenix:20250321T090000
+DTEND;TZID=America/Phoenix:20250321T110000
+DTSTAMP;TZID=America/Phoenix:20250306T092429
+UID:17838-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/schoa-pora-legislative-f
+ orum
+URL:https://suncityhoa.org/events/schoa-pora-legislative-forum/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SCHOA / PORA Legislative Update
+DTSTART;TZID=America/Phoenix:20230324T093000
+DTEND;TZID=America/Phoenix:20230324T113000
+DTSTAMP;TZID=America/Phoenix:20230317T102657
+UID:14252-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/schoa-pora-legislative-u
+ pdate
+URL:https://suncityhoa.org/events/schoa-pora-legislative-update/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SCHOA Lifestyle Senior EXPO
+DTSTART;TZID=America/Phoenix:20231101T090000
+DTEND;TZID=America/Phoenix:20231101T130000
+DTSTAMP;TZID=America/Phoenix:20230301T152550
+UID:13926-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/schoalifestyleexpo
+LOCATION:14801 N 103rd Ave\, Sun City\, AZ  85351
+URL:https://suncityhoa.org/events/schoalifestyleexpo/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sun City Orientation – For Sun City Residents!
+DTSTART;TZID=America/Phoenix:20250423T090000
+DTEND;TZID=America/Phoenix:20250423T120000
+DTSTAMP;TZID=America/Phoenix:20250218T135410
+UID:17707-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/scro
+URL:https://suncityhoa.org/events/scro/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seminar: Veterans Burial Benefits
+DTSTART;TZID=America/Phoenix:20260519T110000
+DTEND;TZID=America/Phoenix:20260519T130000
+DTSTAMP;TZID=America/Phoenix:20260410T092059
+UID:19983-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/seminar-veterans-burial-
+ benefits
+URL:https://suncityhoa.org/events/seminar-veterans-burial-benefits/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Senior Cyber Safety & Computer Basics at Bell (Sun City) Library
+DTSTART;TZID=America/Phoenix:20260225T100000
+DTEND;TZID=America/Phoenix:20260225T113000
+DTSTAMP;TZID=America/Phoenix:20260220T115647
+UID:19550-events@suncityhoa.org
+RDATE;TZID=America/Phoenix;VALUE=PERIOD:20260303T100000/20260303T113000,20
+ 260325T100000/20260325T113000,20260429T100000/20260429T113000,20260527T100
+ 000/20260527T113000,20260624T100000/20260624T113000
+DESCRIPTION:Source: https://suncityhoa.org/events/senior-cyber-safety-comp
+ uter-basics-at-bell-sun-city-library
+URL:https://suncityhoa.org/events/senior-cyber-safety-computer-basics-at-b
+ ell-sun-city-library/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sun City Lifestyle EXPO
+DTSTART;TZID=America/Phoenix:20251029T080000
+DTEND;TZID=America/Phoenix:20251029T120000
+DTSTAMP;TZID=America/Phoenix:20250218T133437
+UID:17703-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/sun-city-lifestyle-expo
+URL:https://suncityhoa.org/events/sun-city-lifestyle-expo/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sun City Lifestyle EXPO
+DTSTART;TZID=America/Phoenix:20261028T080000
+DTEND;TZID=America/Phoenix:20261028T120000
+DTSTAMP;TZID=America/Phoenix:20260302T100546
+UID:19591-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/sun-city-lifestyle-expo-
+ 2
+URL:https://suncityhoa.org/events/sun-city-lifestyle-expo-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sun City Posse Open House
+DTSTART;TZID=America/Phoenix:20250322T130000
+DTEND;TZID=America/Phoenix:20250322T160000
+DTSTAMP;TZID=America/Phoenix:20250306T153048
+UID:17857-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/sun-city-posse-open-hous
+ e
+URL:https://suncityhoa.org/events/sun-city-posse-open-house/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sun City Posse Shred-a-Thon and Drug Takeback
+DTSTART;TZID=America/Phoenix:20250426T090000
+DTEND;TZID=America/Phoenix:20250426T140000
+DTSTAMP;TZID=America/Phoenix:20250327T111022
+UID:18003-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/sun-city-posse-shred-a-t
+ hon-and-drug-takeback
+URL:https://suncityhoa.org/events/sun-city-posse-shred-a-thon-and-drug-tak
+ eback/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sun City Resident Orientation at Sundial Rec Center
+DTSTART;TZID=America/Phoenix:20251107T090000
+DTEND;TZID=America/Phoenix:20251107T120000
+DTSTAMP;TZID=America/Phoenix:20250501T123017
+UID:18167-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/sun-city-resident-orient
+ ation
+URL:https://suncityhoa.org/events/sun-city-resident-orientation/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sun City Resident Orientation
+DTSTART;TZID=America/Phoenix:20261009T090000
+DTEND;TZID=America/Phoenix:20261009T120000
+DTSTAMP;TZID=America/Phoenix:20260309T122508
+UID:19681-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/sun-city-resident-orient
+ ation-2
+URL:https://suncityhoa.org/events/sun-city-resident-orientation-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sun City Ukulele Club Concert in Support of SCHOA
+DTSTART;TZID=America/Phoenix:20250127T150000
+DTEND;TZID=America/Phoenix:20250127T163000
+DTSTAMP;TZID=America/Phoenix:20241126T130639
+UID:17120-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/sun-city-ukulele-club-co
+ ncert-in-support-of-schoa
+LOCATION:14801 N 103rd Ave\, Sun City\, AZ  85351
+URL:https://suncityhoa.org/events/sun-city-ukulele-club-concert-in-support
+ -of-schoa/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sun Health at Home – FREE Discovery Event
+DTSTART;TZID=America/Phoenix:20250226T093000
+DTEND;TZID=America/Phoenix:20250226T113000
+DTSTAMP;TZID=America/Phoenix:20241205T095312
+UID:17167-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/sun-health-and-home-disc
+ overy
+LOCATION:10401 W Coggins Drive\, Sun City\, AZ 85351
+URL:https://suncityhoa.org/events/sun-health-and-home-discovery/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Workshop-Sun Health at Home Discovery Seminar
+DTSTART;TZID=America/Phoenix:20250424T100000
+DTEND;TZID=America/Phoenix:20250424T110000
+DTSTAMP;TZID=America/Phoenix:20250130T115956
+UID:17564-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/sun-health-at-home-disco
+ very-seminar
+LOCATION:10401 W Coggins Drive\, Sun City\, AZ 85351
+URL:https://suncityhoa.org/events/sun-health-at-home-discovery-seminar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thanksgiving – Office Closed
+DTSTART;VALUE=DATE:20241128
+DTEND;VALUE=DATE:20241130
+DTSTAMP;TZID=America/Phoenix:20240409T091317
+UID:15820-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/thanksgiving-office-clos
+ ed
+URL:https://suncityhoa.org/events/thanksgiving-office-closed/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Title: Free Workshop: Changes to Medicare 2027
+DTSTART;TZID=America/Phoenix:20261015T130000
+DTEND;TZID=America/Phoenix:20261015T140000
+DTSTAMP;TZID=America/Phoenix:20260727T132405
+UID:20493-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/title-free-workshop-chan
+ ges-to-medicare-2027
+URL:https://suncityhoa.org/events/title-free-workshop-changes-to-medicare-
+ 2027/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:COFFEE CHAT – Travel Safety – RSVP Required
+DTSTART;TZID=America/Phoenix:20240402T100000
+DTEND;TZID=America/Phoenix:20240402T120000
+DTSTAMP;TZID=America/Phoenix:20240212T140152
+UID:15595-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/travel-safety
+URL:https://suncityhoa.org/events/travel-safety/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Workshop-Utilizing Medicare Plans
+DTSTART;TZID=America/Phoenix:20250306T100000
+DTEND;TZID=America/Phoenix:20250306T113000
+DTSTAMP;TZID=America/Phoenix:20241212T130159
+UID:17238-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/utilizing-medicare-plans
+URL:https://suncityhoa.org/events/utilizing-medicare-plans/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Veterans Day
+DTSTART;VALUE=DATE:20231111
+DTEND;VALUE=DATE:20231111
+DTSTAMP;TZID=America/Phoenix:20230301T153621
+UID:13945-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/veterans-day
+URL:https://suncityhoa.org/events/veterans-day/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Veteran’s Day (SCHOA Office Closed)
+DTSTART;VALUE=DATE:20241111
+DTEND;VALUE=DATE:20241111
+DTSTAMP;TZID=America/Phoenix:20240411T131530
+UID:15843-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/veterans-day-2
+URL:https://suncityhoa.org/events/veterans-day-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Veteran’s Day – Office Closed
+DTSTART;VALUE=DATE:20251111
+DTEND;VALUE=DATE:20251111
+DTSTAMP;TZID=America/Phoenix:20251101T184100
+UID:18872-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/veterans-day-office-clos
+ ed
+URL:https://suncityhoa.org/events/veterans-day-office-closed/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual Presentation: Understanding Hoarding Disorder
+DTSTART;TZID=America/Phoenix:20260311T090000
+DTEND;TZID=America/Phoenix:20260311T103000
+DTSTAMP;TZID=America/Phoenix:20260206T094945
+UID:19368-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/virtual-presentation-und
+ erstanding-hoarding-disorder
+URL:https://suncityhoa.org/events/virtual-presentation-understanding-hoard
+ ing-disorder/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual Presentation: Understanding Hoarding Disorder
+DTSTART;TZID=America/Phoenix:20260318T090000
+DTEND;TZID=America/Phoenix:20260318T103000
+DTSTAMP;TZID=America/Phoenix:20260220T111603
+UID:19545-events@suncityhoa.org
+DESCRIPTION:Source: https://suncityhoa.org/events/virtual-presentation-und
+ erstanding-hoarding-disorder-2
+URL:https://suncityhoa.org/events/virtual-presentation-understanding-hoard
+ ing-disorder-2/
+END:VEVENT
+END:VCALENDAR
