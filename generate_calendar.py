@@ -37,34 +37,91 @@ def get(url: str) -> requests.Response:
 
 def discover_event_pages() -> list[str]:
     """
-    Discover individual SCHOA event pages from the main events page.
+    Discover SCHOA event pages from the site's sitemap(s)
+    instead of relying on the JavaScript-driven /events/ page.
     """
 
-    html = get(EVENTS_URL).text
-    soup = BeautifulSoup(html, "html.parser")
+    sitemap_candidates = [
+        "https://suncityhoa.org/wp-sitemap.xml",
+        "https://suncityhoa.org/sitemap_index.xml",
+        "https://suncityhoa.org/post-sitemap.xml",
+        "https://suncityhoa.org/page-sitemap.xml",
+    ]
 
     urls = set()
 
-    for link in soup.find_all("a", href=True):
-        href = link["href"]
+    for sitemap_url in sitemap_candidates:
+        try:
+            response = get(sitemap_url)
 
-        if "/events/" not in href:
-            continue
+            text = response.text
 
-        url = urljoin(BASE_URL, href)
-        url = url.split("?")[0].split("#")[0].rstrip("/")
+            # Collect individual event URLs found in sitemap XML.
+            for match in re.findall(
+                r"<loc>(https://suncityhoa\.org/events/[^<]+)</loc>",
+                text,
+                flags=re.I,
+            ):
+                url = (
+                    match.replace("&amp;", "&")
+                    .split("?")[0]
+                    .split("#")[0]
+                    .rstrip("/")
+                )
 
-        if url.rstrip("/") == EVENTS_URL.rstrip("/"):
-            continue
+                if url.rstrip("/") != EVENTS_URL.rstrip("/"):
+                    urls.add(url)
 
-        urls.add(url)
+            # Some sitemap files are indexes pointing to more sitemap files.
+            child_sitemaps = re.findall(
+                r"<loc>(https://suncityhoa\.org/[^<]*sitemap[^<]*)</loc>",
+                text,
+                flags=re.I,
+            )
+
+            for child_url in child_sitemaps:
+                try:
+                    child = get(
+                        child_url.replace("&amp;", "&")
+                    ).text
+
+                    for match in re.findall(
+                        r"<loc>(https://suncityhoa\.org/events/[^<]+)</loc>",
+                        child,
+                        flags=re.I,
+                    ):
+                        url = (
+                            match.replace("&amp;", "&")
+                            .split("?")[0]
+                            .split("#")[0]
+                            .rstrip("/")
+                        )
+
+                        if url.rstrip("/") != EVENTS_URL.rstrip("/"):
+                            urls.add(url)
+
+                except Exception as exc:
+                    print(
+                        f"Could not inspect child sitemap "
+                        f"{child_url}: {exc}"
+                    )
+
+        except Exception as exc:
+            print(
+                f"Could not inspect sitemap "
+                f"{sitemap_url}: {exc}"
+            )
 
     urls = sorted(urls)
 
-    print(f"Discovered {len(urls)} candidate event pages")
+    print(
+        f"Discovered {len(urls)} candidate event pages"
+    )
+
+    for url in urls[:20]:
+        print(f"  {url}")
 
     return urls
-
 
 def extract_ical_url(event_url: str) -> str | None:
     """
