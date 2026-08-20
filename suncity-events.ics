@@ -610,28 +610,6 @@ URL:https://suncityhoa.org/events/free-workshop-changes-to-medicare-2027-4
  /
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Free Workshop: Changes to Medicare 2027
-DTSTART;TZID=America/Phoenix:20261105T130000
-DTEND;TZID=America/Phoenix:20261105T140000
-DTSTAMP;TZID=America/Phoenix:20260727T141045
-UID:20505-events@suncityhoa.org
-DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-changes-to
- -medicare-2027-5
-URL:https://suncityhoa.org/events/free-workshop-changes-to-medicare-2027-5
- /
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free Workshop: Changes to Medicare 2027
-DTSTART;TZID=America/Phoenix:20261112T130000
-DTEND;TZID=America/Phoenix:20261112T140000
-DTSTAMP;TZID=America/Phoenix:20260727T141210
-UID:20508-events@suncityhoa.org
-DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-changes-to
- -medicare-2027-6
-URL:https://suncityhoa.org/events/free-workshop-changes-to-medicare-2027-6
- /
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:FREE Workshop: Considering a Senior Living Community?
 DTSTART;TZID=America/Phoenix:20260430T100000
 DTEND;TZID=America/Phoenix:20260430T120000
@@ -2351,8 +2329,8 @@ URL:https://suncityhoa.org/events/thanksgiving-office-closed/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Title: Free Workshop: Changes to Medicare 2027
-DTSTART;TZID=America/Phoenix:20261015T130000
-DTEND;TZID=America/Phoenix:20261015T140000
+DTSTART;TZID=America/Phoenix:20261013T130000
+DTEND;TZID=America/Phoenix:20261013T140000
 DTSTAMP;TZID=America/Phoenix:20260727T132405
 UID:20493-events@suncityhoa.org
 DESCRIPTION:Source: https://suncityhoa.org/events/title-free-workshop-chan
