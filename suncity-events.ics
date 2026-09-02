@@ -9,8 +9,8 @@ BEGIN:VEVENT
 SUMMARY:Christmas - Office Closed
 DTSTART;VALUE=DATE:20261224
 DTEND;VALUE=DATE:20261226
-DTSTAMP:20260901T152957Z
-UID:943603773277948614@suncity-events
+DTSTAMP:20260902T151024Z
+UID:6656462219994246916@suncity-events
 DESCRIPTION:Source: https://suncityhoa.org/events/christmas-office-closed
 LOCATION:HOA Facebook Mail Sun City 2024-2025 Map Hometown HERO Event Cale
  ndar Business Partners Member Login Phone: (623) 974-4718 About SCHOA Who 
@@ -37,8 +37,8 @@ BEGIN:VEVENT
 SUMMARY:Day of Service
 DTSTART;VALUE=DATE:20270319
 DTEND;VALUE=DATE:20270320
-DTSTAMP:20260901T153010Z
-UID:8362915511357532940@suncity-events
+DTSTAMP:20260902T151030Z
+UID:1889951226439589341@suncity-events
 DESCRIPTION:Source: https://suncityhoa.org/events/day-of-service-2
 LOCATION:HOA Facebook Mail Sun City 2024-2025 Map Hometown HERO Event Cale
  ndar Business Partners Member Login Phone: (623) 974-4718 About SCHOA Who 
@@ -66,8 +66,8 @@ BEGIN:VEVENT
 SUMMARY:Free Workshop: Avoiding Scams - Top 10 Scams and How to Avoid Them
 DTSTART:20260930T110000
 DTEND:20260930T130000
-DTSTAMP:20260901T153044Z
-UID:3358434518253181873@suncity-events
+DTSTAMP:20260902T151051Z
+UID:4644790142733733389@suncity-events
 DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-avoiding-s
  cams-top-10-scams-and-how-to-avoid-them
 LOCATION:HOA Facebook Mail Sun City 2024-2025 Map Hometown HERO Event Cale
@@ -99,8 +99,8 @@ BEGIN:VEVENT
 SUMMARY:Free Workshop: Changes to Medicare 2027
 DTSTART:20261001T130000
 DTEND:20261001T140000
-DTSTAMP:20260901T153047Z
-UID:4413279649401954019@suncity-events
+DTSTAMP:20260902T151053Z
+UID:7325003841629926681@suncity-events
 DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-changes-to
  -medicare-2027
 LOCATION:HOA Facebook Mail Sun City 2024-2025 Map Hometown HERO Event Cale
@@ -131,8 +131,8 @@ BEGIN:VEVENT
 SUMMARY:Free Workshop: Changes to Medicare 2027
 DTSTART:20261008T130000
 DTEND:20261008T140000
-DTSTAMP:20260901T153048Z
-UID:82800042352709735@suncity-events
+DTSTAMP:20260902T151054Z
+UID:4637742398966336107@suncity-events
 DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-changes-to
  -medicare-2027-2
 LOCATION:HOA Facebook Mail Sun City 2024-2025 Map Hometown HERO Event Cale
@@ -163,8 +163,8 @@ BEGIN:VEVENT
 SUMMARY:Free Workshop: Changes to Medicare 2027
 DTSTART:20261022T130000
 DTEND:20261022T140000
-DTSTAMP:20260901T153048Z
-UID:3545572771264204942@suncity-events
+DTSTAMP:20260902T151055Z
+UID:1016069023087510539@suncity-events
 DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-changes-to
  -medicare-2027-3
 LOCATION:HOA Facebook Mail Sun City 2024-2025 Map Hometown HERO Event Cale
@@ -196,8 +196,8 @@ BEGIN:VEVENT
 SUMMARY:Free Workshop: Changes to Medicare 2027
 DTSTART:20261029T130000
 DTEND:20261029T140000
-DTSTAMP:20260901T153049Z
-UID:2571336866868347326@suncity-events
+DTSTAMP:20260902T151056Z
+UID:5719682724931344242@suncity-events
 DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-changes-to
  -medicare-2027-4
 LOCATION:HOA Facebook Mail Sun City 2024-2025 Map Hometown HERO Event Cale
@@ -229,8 +229,8 @@ BEGIN:VEVENT
 SUMMARY:Free Workshop: Considering a Senior Living Community
 DTSTART:20270324T100000
 DTEND:20270324T120000
-DTSTAMP:20260901T153051Z
-UID:3504872351475249927@suncity-events
+DTSTAMP:20260902T151058Z
+UID:2796214226341385238@suncity-events
 DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-considerin
  g-a-senior-living-community-10
 LOCATION:HOA Facebook Mail Sun City 2024-2025 Map Hometown HERO Event Cale
@@ -264,8 +264,8 @@ BEGIN:VEVENT
 SUMMARY:Free Workshop: Considering a Senior Living Community
 DTSTART:20270422T100000
 DTEND:20270422T120000
-DTSTAMP:20260901T153052Z
-UID:3185330722067647965@suncity-events
+DTSTAMP:20260902T151058Z
+UID:1437915174890182983@suncity-events
 DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-considerin
  g-a-senior-living-community-11
 LOCATION:HOA Facebook Mail Sun City 2024-2025 Map Hometown HERO Event Cale
@@ -299,8 +299,8 @@ BEGIN:VEVENT
 SUMMARY:Free Workshop: Considering a Senior Living Community
 DTSTART:20270518T100000
 DTEND:20270518T120000
-DTSTAMP:20260901T153053Z
-UID:7473526761321865825@suncity-events
+DTSTAMP:20260902T151059Z
+UID:7796622227034136709@suncity-events
 DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-considerin
  g-a-senior-living-community-12
 LOCATION:HOA Facebook Mail Sun City 2024-2025 Map Hometown HERO Event Cale
@@ -334,8 +334,8 @@ BEGIN:VEVENT
 SUMMARY:Free Workshop: Considering a Senior Living Community
 DTSTART:20270623T100000
 DTEND:20270623T120000
-DTSTAMP:20260901T153054Z
-UID:7587242047693828167@suncity-events
+DTSTAMP:20260902T151100Z
+UID:7065289030151684761@suncity-events
 DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-considerin
  g-a-senior-living-community-13
 LOCATION:HOA Facebook Mail Sun City 2024-2025 Map Hometown HERO Event Cale
@@ -369,8 +369,8 @@ BEGIN:VEVENT
 SUMMARY:Free Workshop: Considering a Senior Living Community
 DTSTART:20260924T100000
 DTEND:20260924T120000
-DTSTAMP:20260901T153058Z
-UID:3784540541925564745@suncity-events
+DTSTAMP:20260902T151104Z
+UID:6013614258194074801@suncity-events
 DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-considerin
  g-a-senior-living-community-5
 LOCATION:HOA Facebook Mail Sun City 2024-2025 Map Hometown HERO Event Cale
@@ -404,8 +404,8 @@ BEGIN:VEVENT
 SUMMARY:Free Workshop: Considering a Senior Living Community
 DTSTART:20261015T100000
 DTEND:20261015T120000
-DTSTAMP:20260901T153059Z
-UID:8658393192119429131@suncity-events
+DTSTAMP:20260902T151106Z
+UID:4100441727508748265@suncity-events
 DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-considerin
  g-a-senior-living-community-6
 LOCATION:HOA Facebook Mail Sun City 2024-2025 Map Hometown HERO Event Cale
@@ -439,8 +439,8 @@ BEGIN:VEVENT
 SUMMARY:Free Workshop: Considering a Senior Living Community
 DTSTART:20261119T100000
 DTEND:20261119T120000
-DTSTAMP:20260901T153059Z
-UID:8217839107224204037@suncity-events
+DTSTAMP:20260902T151106Z
+UID:5988310058010389139@suncity-events
 DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-considerin
  g-a-senior-living-community-7
 LOCATION:HOA Facebook Mail Sun City 2024-2025 Map Hometown HERO Event Cale
@@ -474,8 +474,8 @@ BEGIN:VEVENT
 SUMMARY:Free Workshop: Considering a Senior Living Community
 DTSTART:20270121T100000
 DTEND:20270121T120000
-DTSTAMP:20260901T153100Z
-UID:2891424076869718286@suncity-events
+DTSTAMP:20260902T151107Z
+UID:623415046550228845@suncity-events
 DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-considerin
  g-a-senior-living-community-8
 LOCATION:HOA Facebook Mail Sun City 2024-2025 Map Hometown HERO Event Cale
@@ -509,8 +509,8 @@ BEGIN:VEVENT
 SUMMARY:Free Workshop: Considering a Senior Living Community
 DTSTART:20270224T100000
 DTEND:20270224T120000
-DTSTAMP:20260901T153101Z
-UID:4061792551382006369@suncity-events
+DTSTAMP:20260902T151108Z
+UID:3188093886882565819@suncity-events
 DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-considerin
  g-a-senior-living-community-9
 LOCATION:HOA Facebook Mail Sun City 2024-2025 Map Hometown HERO Event Cale
@@ -544,8 +544,8 @@ BEGIN:VEVENT
 SUMMARY:Free Workshop: Learn About Mexican Dentistry
 DTSTART:20260915T110000
 DTEND:20260915T130000
-DTSTAMP:20260901T153114Z
-UID:6081447307625906302@suncity-events
+DTSTAMP:20260902T151117Z
+UID:3398278404238582587@suncity-events
 DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-learn-abou
  t-mexican-dentistry
 LOCATION:HOA Facebook Mail Sun City 2024-2025 Map Hometown HERO Event Cale
@@ -579,8 +579,8 @@ BEGIN:VEVENT
 SUMMARY:FREE Workshop: Medicare 101\, Changes & Choices in 2027
 DTSTART:20260928T100000
 DTEND:20260928T113000
-DTSTAMP:20260901T153117Z
-UID:4076769191499626553@suncity-events
+DTSTAMP:20260902T151118Z
+UID:4242606752792006728@suncity-events
 DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-medicare-1
  01-changes-choices-in-2027
 LOCATION:HOA Facebook Mail Sun City 2024-2025 Map Hometown HERO Event Cale
@@ -613,8 +613,8 @@ BEGIN:VEVENT
 SUMMARY:FREE Workshop: Medicare Changes & Choices
 DTSTART:20261026T100000
 DTEND:20261026T113000
-DTSTAMP:20260901T153117Z
-UID:5667633251830814800@suncity-events
+DTSTAMP:20260902T151119Z
+UID:4496647769652876137@suncity-events
 DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-medicare-c
  hanges-choices
 LOCATION:HOA Facebook Mail Sun City 2024-2025 Map Hometown HERO Event Cale
@@ -646,8 +646,8 @@ BEGIN:VEVENT
 SUMMARY:Free Workshop: Neptune Society Lunch & Learn - Cremation 101
 DTSTART:20260923T113000
 DTEND:20260923T130000
-DTSTAMP:20260901T153130Z
-UID:8734666281862098191@suncity-events
+DTSTAMP:20260902T151128Z
+UID:5576229523110592835@suncity-events
 DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-neptune-so
  ciety-lunch-learn-cremation-101
 LOCATION:HOA Facebook Mail Sun City 2024-2025 Map Hometown HERO Event Cale
@@ -679,8 +679,8 @@ BEGIN:VEVENT
 SUMMARY:Office Closed - Labor Day
 DTSTART;VALUE=DATE:20260907
 DTEND;VALUE=DATE:20260908
-DTSTAMP:20260901T153249Z
-UID:3637896793725812256@suncity-events
+DTSTAMP:20260902T151225Z
+UID:6910039239279339819@suncity-events
 DESCRIPTION:Source: https://suncityhoa.org/events/office-closed-labor-day-
  3
 LOCATION:HOA Facebook Mail Sun City 2024-2025 Map Hometown HERO Event Cale
@@ -706,8 +706,8 @@ BEGIN:VEVENT
 SUMMARY:Office Closed: Thanksgiving
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261128
-DTSTAMP:20260901T153258Z
-UID:67188437765504555@suncity-events
+DTSTAMP:20260902T151232Z
+UID:8920768307237843637@suncity-events
 DESCRIPTION:Source: https://suncityhoa.org/events/office-closed-thanksgivi
  ng-3
 LOCATION:HOA Facebook Mail Sun City 2024-2025 Map Hometown HERO Event Cale
@@ -733,8 +733,8 @@ BEGIN:VEVENT
 SUMMARY:Sun City Lifestyle EXPO
 DTSTART:20261028T080000
 DTEND:20261028T120000
-DTSTAMP:20260901T153339Z
-UID:6788115231297530250@suncity-events
+DTSTAMP:20260902T151308Z
+UID:5675694826759023223@suncity-events
 DESCRIPTION:Source: https://suncityhoa.org/events/sun-city-lifestyle-expo-
  2
 LOCATION:Lifestyle EXPO - SCHOA - Sun City HOA Facebook Mail Sun City 2024
@@ -764,8 +764,8 @@ BEGIN:VEVENT
 SUMMARY:Sun City Resident Orientation
 DTSTART:20261009T090000
 DTEND:20261009T120000
-DTSTAMP:20260901T153343Z
-UID:6645436040567060898@suncity-events
+DTSTAMP:20260902T151312Z
+UID:5922297729504721590@suncity-events
 DESCRIPTION:Source: https://suncityhoa.org/events/sun-city-resident-orient
  ation-2
 LOCATION:Resident Orientation - SCHOA - Sun City HOA Facebook Mail Sun Cit
@@ -798,8 +798,8 @@ BEGIN:VEVENT
 SUMMARY:Title: Free Workshop: Changes to Medicare 2027
 DTSTART:20261013T130000
 DTEND:20261013T140000
-DTSTAMP:20260901T153349Z
-UID:3708105942800327717@suncity-events
+DTSTAMP:20260902T151315Z
+UID:4278178689880749028@suncity-events
 DESCRIPTION:Source: https://suncityhoa.org/events/title-free-workshop-chan
  ges-to-medicare-2027
 LOCATION:HOA Facebook Mail Sun City 2024-2025 Map Hometown HERO Event Cale
