@@ -175,21 +175,41 @@ def parse_event_datetime(text: str, label: str):
         return None
 
 
-def extract_location(text: str) -> str:
-    # Prefer the structured venue block when present.
-    venue = re.search(r"\bVenue\s+(.+?)(?=\bAddress\b|\bOrganizer\b|\bInformation\b|$)", text, re.I)
-    address = re.search(r"\bAddress\s+(.+?)(?=\bCity\b|\bOrganizer\b|\bInformation\b|$)", text, re.I)
-    city = re.search(r"\bCity\s+(.+?)(?=\bPostal code\b|\bState\b|\bCountry\b|$)", text, re.I)
-    state = re.search(r"\bState\s+([A-Z]{2}|Arizona)\b", text, re.I)
-    postal = re.search(r"\bPostal code\s+(\d{5}(?:-\d{4})?)", text, re.I)
+def extract_location(soup: BeautifulSoup) -> str:
+    """Extract only a plausible event venue/address; never page navigation text."""
+    text = clean(soup.get_text(" ", strip=True))
 
-    parts = []
-    for m in (venue, address, city, state, postal):
+    # SCHOA event pages expose labeled venue/address fields in the event-details
+    # area. Bound every capture tightly so a missing label cannot consume the
+    # site's navigation/footer.
+    labels = r"Venue|Address|City|State|Postal code|Country|Organizer|Information|Start date|End date"
+    values = {}
+    for label in ("Venue", "Address", "City", "State", "Postal code"):
+        m = re.search(
+            rf"\\b{re.escape(label)}\\s*:?\\s*(.+?)(?=\\s+\\b(?:{labels})\\b\\s*:?|$)",
+            text,
+            re.I,
+        )
         if m:
             value = clean(m.group(1))
-            if value and value not in parts:
-                parts.append(value)
-    return ", ".join(parts)
+            # Reject captures that are clearly page chrome rather than a venue.
+            if 0 < len(value) <= 160 and not re.search(
+                r"\\b(member login|about schoa|what we do|newsletter|facebook|event calendar|business partners)\\b",
+                value,
+                re.I,
+            ):
+                values[label] = value
+
+    parts = []
+    for label in ("Venue", "Address", "City", "State", "Postal code"):
+        value = values.get(label, "")
+        if value and value not in parts:
+            parts.append(value)
+
+    location = ", ".join(parts)
+    # A location should be concise. If parsing is uncertain, omit LOCATION so
+    # the map does not geocode arbitrary website text.
+    return location if len(location) <= 220 else ""
 
 
 def parse_event_page(event_url: str):
@@ -232,7 +252,7 @@ def parse_event_page(event_url: str):
         "title": title,
         "start": start,
         "end": end,
-        "location": extract_location(text),
+        "location": extract_location(soup),
         "description": description,
         "url": event_url,
     }
