@@ -9,8 +9,8 @@ BEGIN:VEVENT
 SUMMARY:Christmas - Office Closed
 DTSTART;VALUE=DATE:20261224
 DTEND;VALUE=DATE:20261226
-DTSTAMP:20261016T152522Z
-UID:1811683533698716193@suncity-events
+DTSTAMP:20261017T141839Z
+UID:1829566452319495037@suncity-events
 DESCRIPTION:Source: https://suncityhoa.org/events/christmas-office-closed
 URL:https://suncityhoa.org/events/christmas-office-closed
 END:VEVENT
@@ -18,8 +18,8 @@ BEGIN:VEVENT
 SUMMARY:Day of Service
 DTSTART;VALUE=DATE:20270319
 DTEND;VALUE=DATE:20270320
-DTSTAMP:20261016T152527Z
-UID:6356916311831710855@suncity-events
+DTSTAMP:20261017T141846Z
+UID:4734166622239257694@suncity-events
 DESCRIPTION:Source: https://suncityhoa.org/events/day-of-service-2
 URL:https://suncityhoa.org/events/day-of-service-2
 END:VEVENT
@@ -27,8 +27,8 @@ BEGIN:VEVENT
 SUMMARY:Free Workshop: Changes to Medicare 2027
 DTSTART:20261022T130000
 DTEND:20261022T140000
-DTSTAMP:20261016T152552Z
-UID:2723923012275333244@suncity-events
+DTSTAMP:20261017T141918Z
+UID:4087916391132090718@suncity-events
 DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-changes-to
  -medicare-2027-3
 URL:https://suncityhoa.org/events/free-workshop-changes-to-medicare-2027-3
@@ -37,8 +37,8 @@ BEGIN:VEVENT
 SUMMARY:Free Workshop: Changes to Medicare 2027
 DTSTART:20261029T130000
 DTEND:20261029T140000
-DTSTAMP:20261016T152553Z
-UID:1441593006527510362@suncity-events
+DTSTAMP:20261017T141919Z
+UID:310601164223421169@suncity-events
 DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-changes-to
  -medicare-2027-4
 URL:https://suncityhoa.org/events/free-workshop-changes-to-medicare-2027-4
@@ -47,8 +47,8 @@ BEGIN:VEVENT
 SUMMARY:Free Workshop: Considering a Senior Living Community
 DTSTART:20270324T100000
 DTEND:20270324T120000
-DTSTAMP:20261016T152554Z
-UID:1615565679622129041@suncity-events
+DTSTAMP:20261017T141920Z
+UID:5775635691741953842@suncity-events
 DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-considerin
  g-a-senior-living-community-10
 URL:https://suncityhoa.org/events/free-workshop-considering-a-senior-livin
@@ -58,8 +58,8 @@ BEGIN:VEVENT
 SUMMARY:Free Workshop: Considering a Senior Living Community
 DTSTART:20270422T100000
 DTEND:20270422T120000
-DTSTAMP:20261016T152555Z
-UID:4626125739345801486@suncity-events
+DTSTAMP:20261017T141921Z
+UID:2633062251398122568@suncity-events
 DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-considerin
  g-a-senior-living-community-11
 URL:https://suncityhoa.org/events/free-workshop-considering-a-senior-livin
@@ -69,8 +69,8 @@ BEGIN:VEVENT
 SUMMARY:Free Workshop: Considering a Senior Living Community
 DTSTART:20270518T100000
 DTEND:20270518T120000
-DTSTAMP:20261016T152556Z
-UID:7110684191389083082@suncity-events
+DTSTAMP:20261017T141922Z
+UID:2569216122047464079@suncity-events
 DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-considerin
  g-a-senior-living-community-12
 URL:https://suncityhoa.org/events/free-workshop-considering-a-senior-livin
@@ -80,8 +80,8 @@ BEGIN:VEVENT
 SUMMARY:Free Workshop: Considering a Senior Living Community
 DTSTART:20270623T100000
 DTEND:20270623T120000
-DTSTAMP:20261016T152557Z
-UID:8007210843581763734@suncity-events
+DTSTAMP:20261017T141922Z
+UID:6580570123752751446@suncity-events
 DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-considerin
  g-a-senior-living-community-13
 URL:https://suncityhoa.org/events/free-workshop-considering-a-senior-livin
@@ -91,8 +91,8 @@ BEGIN:VEVENT
 SUMMARY:Free Workshop: Considering a Senior Living Community
 DTSTART:20261119T100000
 DTEND:20261119T120000
-DTSTAMP:20261016T152602Z
-UID:6765777174198336720@suncity-events
+DTSTAMP:20261017T141928Z
+UID:2161317106296111804@suncity-events
 DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-considerin
  g-a-senior-living-community-7
 URL:https://suncityhoa.org/events/free-workshop-considering-a-senior-livin
@@ -102,8 +102,8 @@ BEGIN:VEVENT
 SUMMARY:Free Workshop: Considering a Senior Living Community
 DTSTART:20270121T100000
 DTEND:20270121T120000
-DTSTAMP:20261016T152604Z
-UID:1486791455909820607@suncity-events
+DTSTAMP:20261017T141930Z
+UID:3566749436461914035@suncity-events
 DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-considerin
  g-a-senior-living-community-8
 URL:https://suncityhoa.org/events/free-workshop-considering-a-senior-livin
@@ -113,8 +113,8 @@ BEGIN:VEVENT
 SUMMARY:Free Workshop: Considering a Senior Living Community
 DTSTART:20270224T100000
 DTEND:20270224T120000
-DTSTAMP:20261016T152605Z
-UID:5706363842100939652@suncity-events
+DTSTAMP:20261017T141930Z
+UID:1463675424915855289@suncity-events
 DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-considerin
  g-a-senior-living-community-9
 URL:https://suncityhoa.org/events/free-workshop-considering-a-senior-livin
@@ -124,8 +124,8 @@ BEGIN:VEVENT
 SUMMARY:Free Workshop: Learn About Mexican Dentistry
 DTSTART:20261112T110000
 DTEND:20261112T130000
-DTSTAMP:20261016T152614Z
-UID:7987531297369912801@suncity-events
+DTSTAMP:20261017T141942Z
+UID:1648200975807421942@suncity-events
 DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-learn-abou
  t-mexican-dentistry-2
 URL:https://suncityhoa.org/events/free-workshop-learn-about-mexican-dentis
@@ -135,8 +135,8 @@ BEGIN:VEVENT
 SUMMARY:FREE Workshop: Medicare Changes & Choices
 DTSTART:20261026T100000
 DTEND:20261026T113000
-DTSTAMP:20261016T152617Z
-UID:691351259622863516@suncity-events
+DTSTAMP:20261017T141945Z
+UID:3276211163885681328@suncity-events
 DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-medicare-c
  hanges-choices
 URL:https://suncityhoa.org/events/free-workshop-medicare-changes-choices
@@ -145,8 +145,8 @@ BEGIN:VEVENT
 SUMMARY:Free Workshop: Neptune Society Lunch & Learn - Cremation 101
 DTSTART:20261104T113000
 DTEND:20261104T130000
-DTSTAMP:20261016T152627Z
-UID:1543820168162026278@suncity-events
+DTSTAMP:20261017T142000Z
+UID:4231415315958044233@suncity-events
 DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-neptune-so
  ciety-lunch-learn-cremation-101
 URL:https://suncityhoa.org/events/free-workshop-neptune-society-lunch-lear
@@ -156,8 +156,8 @@ BEGIN:VEVENT
 SUMMARY:Free Workshop: The New Reverse Mortgage from A to Z
 DTSTART:20261020T100000
 DTEND:20261020T113000
-DTSTAMP:20261016T152644Z
-UID:4376436034556429180@suncity-events
+DTSTAMP:20261017T142055Z
+UID:4686763196963946102@suncity-events
 DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-the-new-re
  verse-mortgage-from-a-to-z
 URL:https://suncityhoa.org/events/free-workshop-the-new-reverse-mortgage-f
@@ -167,8 +167,8 @@ BEGIN:VEVENT
 SUMMARY:Free Workshop: The New Reverse Mortgage from A to Z
 DTSTART:20261210T100000
 DTEND:20261210T113000
-DTSTAMP:20261016T152645Z
-UID:4739937447005655850@suncity-events
+DTSTAMP:20261017T142055Z
+UID:7050144961081567931@suncity-events
 DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-the-new-re
  verse-mortgage-from-a-to-z-2
 URL:https://suncityhoa.org/events/free-workshop-the-new-reverse-mortgage-f
@@ -178,8 +178,8 @@ BEGIN:VEVENT
 SUMMARY:Free Workshop: Wills vs Trusts - How to Avoid Probate
 DTSTART:20261110T110000
 DTEND:20261110T130000
-DTSTAMP:20261016T152652Z
-UID:8773709682084302936@suncity-events
+DTSTAMP:20261017T142103Z
+UID:8643997747478437088@suncity-events
 DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-wills-vs-t
  rusts-how-to-avoid-probate
 URL:https://suncityhoa.org/events/free-workshop-wills-vs-trusts-how-to-avo
@@ -189,8 +189,8 @@ BEGIN:VEVENT
 SUMMARY:Office Closed: Thanksgiving
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261128
-DTSTAMP:20261016T152732Z
-UID:8654461312348097661@suncity-events
+DTSTAMP:20261017T142149Z
+UID:6444362010776216478@suncity-events
 DESCRIPTION:Source: https://suncityhoa.org/events/office-closed-thanksgivi
  ng-3
 URL:https://suncityhoa.org/events/office-closed-thanksgiving-3
@@ -199,8 +199,8 @@ BEGIN:VEVENT
 SUMMARY:Sun City Lifestyle EXPO
 DTSTART:20261028T080000
 DTEND:20261028T120000
-DTSTAMP:20261016T152800Z
-UID:4711752949011730674@suncity-events
+DTSTAMP:20261017T142225Z
+UID:5713341983642623969@suncity-events
 DESCRIPTION:Source: https://suncityhoa.org/events/sun-city-lifestyle-expo-
  2
 URL:https://suncityhoa.org/events/sun-city-lifestyle-expo-2
