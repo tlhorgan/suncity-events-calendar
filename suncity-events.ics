@@ -9,8 +9,8 @@ BEGIN:VEVENT
 SUMMARY:Board Meeting
 DTSTART:20261215T100000
 DTEND:20261215T000000
-DTSTAMP:20261125T203210Z
-UID:5569151090939943707@suncity-events
+DTSTAMP:20261126T202036Z
+UID:1297035641542599782@suncity-events
 DESCRIPTION:Source: https://suncityhoa.org/events/board-meeting-3
 URL:https://suncityhoa.org/events/board-meeting-3
 END:VEVENT
@@ -18,8 +18,8 @@ BEGIN:VEVENT
 SUMMARY:Board Meeting
 DTSTART:20270126T090000
 DTEND:20270126T100000
-DTSTAMP:20261125T203211Z
-UID:1090522356009513511@suncity-events
+DTSTAMP:20261126T202038Z
+UID:5818561206825706641@suncity-events
 DESCRIPTION:Source: https://suncityhoa.org/events/board-meeting-4
 URL:https://suncityhoa.org/events/board-meeting-4
 END:VEVENT
@@ -27,8 +27,8 @@ BEGIN:VEVENT
 SUMMARY:Christmas - Office Closed
 DTSTART;VALUE=DATE:20261224
 DTEND;VALUE=DATE:20261226
-DTSTAMP:20261125T203216Z
-UID:93130748989439153@suncity-events
+DTSTAMP:20261126T202044Z
+UID:1202164398849260360@suncity-events
 DESCRIPTION:Source: https://suncityhoa.org/events/christmas-office-closed
 URL:https://suncityhoa.org/events/christmas-office-closed
 END:VEVENT
@@ -36,8 +36,8 @@ BEGIN:VEVENT
 SUMMARY:Day of Service
 DTSTART;VALUE=DATE:20270319
 DTEND;VALUE=DATE:20270320
-DTSTAMP:20261125T203224Z
-UID:5230633507789536257@suncity-events
+DTSTAMP:20261126T202054Z
+UID:2512738114440820113@suncity-events
 DESCRIPTION:Source: https://suncityhoa.org/events/day-of-service-2
 URL:https://suncityhoa.org/events/day-of-service-2
 END:VEVENT
@@ -45,8 +45,8 @@ BEGIN:VEVENT
 SUMMARY:Free Workshop: Can you identify AI?
 DTSTART:20261202T110000
 DTEND:20261202T130000
-DTSTAMP:20261125T203300Z
-UID:1240848751129619323@suncity-events
+DTSTAMP:20261126T202137Z
+UID:8936611624770422923@suncity-events
 DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-avoiding-s
  cams-top-10-scams-and-how-to-avoid-them-2
 URL:https://suncityhoa.org/events/free-workshop-avoiding-scams-top-10-scam
@@ -56,8 +56,8 @@ BEGIN:VEVENT
 SUMMARY:Free Workshop: Considering a Senior Living Community
 DTSTART:20270324T100000
 DTEND:20270324T120000
-DTSTAMP:20261125T203308Z
-UID:1663262407558712697@suncity-events
+DTSTAMP:20261126T202148Z
+UID:8370228313782198056@suncity-events
 DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-considerin
  g-a-senior-living-community-10
 URL:https://suncityhoa.org/events/free-workshop-considering-a-senior-livin
@@ -67,8 +67,8 @@ BEGIN:VEVENT
 SUMMARY:Free Workshop: Considering a Senior Living Community
 DTSTART:20270422T100000
 DTEND:20270422T120000
-DTSTAMP:20261125T203309Z
-UID:4475308412605776844@suncity-events
+DTSTAMP:20261126T202150Z
+UID:2461516599741564032@suncity-events
 DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-considerin
  g-a-senior-living-community-11
 URL:https://suncityhoa.org/events/free-workshop-considering-a-senior-livin
@@ -78,8 +78,8 @@ BEGIN:VEVENT
 SUMMARY:Free Workshop: Considering a Senior Living Community
 DTSTART:20270518T100000
 DTEND:20270518T120000
-DTSTAMP:20261125T203310Z
-UID:8686450973361925553@suncity-events
+DTSTAMP:20261126T202151Z
+UID:2239785415762976385@suncity-events
 DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-considerin
  g-a-senior-living-community-12
 URL:https://suncityhoa.org/events/free-workshop-considering-a-senior-livin
@@ -89,8 +89,8 @@ BEGIN:VEVENT
 SUMMARY:Free Workshop: Considering a Senior Living Community
 DTSTART:20270623T100000
 DTEND:20270623T120000
-DTSTAMP:20261125T203310Z
-UID:8887703205550217581@suncity-events
+DTSTAMP:20261126T202152Z
+UID:5709799355614271908@suncity-events
 DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-considerin
  g-a-senior-living-community-13
 URL:https://suncityhoa.org/events/free-workshop-considering-a-senior-livin
@@ -100,8 +100,8 @@ BEGIN:VEVENT
 SUMMARY:Free Workshop: Considering a Senior Living Community
 DTSTART:20270121T100000
 DTEND:20270121T120000
-DTSTAMP:20261125T203316Z
-UID:6390699607264432379@suncity-events
+DTSTAMP:20261126T202159Z
+UID:8288068669172772980@suncity-events
 DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-considerin
  g-a-senior-living-community-8
 URL:https://suncityhoa.org/events/free-workshop-considering-a-senior-livin
@@ -111,8 +111,8 @@ BEGIN:VEVENT
 SUMMARY:Free Workshop: Considering a Senior Living Community
 DTSTART:20270224T100000
 DTEND:20270224T120000
-DTSTAMP:20261125T203317Z
-UID:2857277698488024190@suncity-events
+DTSTAMP:20261126T202200Z
+UID:4388325931277776076@suncity-events
 DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-considerin
  g-a-senior-living-community-9
 URL:https://suncityhoa.org/events/free-workshop-considering-a-senior-livin
@@ -122,8 +122,8 @@ BEGIN:VEVENT
 SUMMARY:Free Workshop: The New Reverse Mortgage from A to Z
 DTSTART:20261210T100000
 DTEND:20261210T113000
-DTSTAMP:20261125T203412Z
-UID:6940183197593282291@suncity-events
+DTSTAMP:20261126T202311Z
+UID:1177862327406666298@suncity-events
 DESCRIPTION:Source: https://suncityhoa.org/events/free-workshop-the-new-re
  verse-mortgage-from-a-to-z-2
 URL:https://suncityhoa.org/events/free-workshop-the-new-reverse-mortgage-f
@@ -133,8 +133,8 @@ BEGIN:VEVENT
 SUMMARY:Merry and Bright Community Choice Voting Begins
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
-DTSTAMP:20261125T203440Z
-UID:6049516000849091890@suncity-events
+DTSTAMP:20261126T202349Z
+UID:1212114898638393818@suncity-events
 DESCRIPTION:Source: https://suncityhoa.org/events/merry-and-bright-communi
  ty-choice-voting-begins
 URL:https://suncityhoa.org/events/merry-and-bright-community-choice-voting
@@ -144,8 +144,8 @@ BEGIN:VEVENT
 SUMMARY:Merry and Bright Community Choice Voting Ends
 DTSTART;VALUE=DATE:20261228
 DTEND;VALUE=DATE:20261229
-DTSTAMP:20261125T203440Z
-UID:3800692778638686280@suncity-events
+DTSTAMP:20261126T202350Z
+UID:1532208165852499842@suncity-events
 DESCRIPTION:Source: https://suncityhoa.org/events/merry-and-bright-communi
  ty-choice-voting-ends
 URL:https://suncityhoa.org/events/merry-and-bright-community-choice-voting
@@ -155,8 +155,8 @@ BEGIN:VEVENT
 SUMMARY:Merry and Bright Judging Ends
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
-DTSTAMP:20261125T203441Z
-UID:8239475145908441370@suncity-events
+DTSTAMP:20261126T202351Z
+UID:4745563167155207466@suncity-events
 DESCRIPTION:Source: https://suncityhoa.org/events/merry-and-bright-judging
  -ends
 URL:https://suncityhoa.org/events/merry-and-bright-judging-ends
@@ -165,8 +165,8 @@ BEGIN:VEVENT
 SUMMARY:Merry and Bright Winners Announced
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20261231
-DTSTAMP:20261125T203441Z
-UID:6743579212081385192@suncity-events
+DTSTAMP:20261126T202352Z
+UID:6890984310227519206@suncity-events
 DESCRIPTION:Source: https://suncityhoa.org/events/merry-and-bright-winners
  -announced
 URL:https://suncityhoa.org/events/merry-and-bright-winners-announced
@@ -175,8 +175,8 @@ BEGIN:VEVENT
 SUMMARY:Merry & Bright Judging Begins
 DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261215
-DTSTAMP:20261125T203445Z
-UID:1328306012213900897@suncity-events
+DTSTAMP:20261126T202356Z
+UID:9148651944654854285@suncity-events
 DESCRIPTION:Source: https://suncityhoa.org/events/merry-bright-judging-beg
  ins
 URL:https://suncityhoa.org/events/merry-bright-judging-begins
@@ -185,8 +185,8 @@ BEGIN:VEVENT
 SUMMARY:Merry & Bright Registration Ends
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
-DTSTAMP:20261125T203448Z
-UID:6054400810730177447@suncity-events
+DTSTAMP:20261126T202404Z
+UID:3395578538095773020@suncity-events
 DESCRIPTION:Source: https://suncityhoa.org/events/merry-bright-registratio
  n-ends
 URL:https://suncityhoa.org/events/merry-bright-registration-ends
@@ -195,8 +195,8 @@ BEGIN:VEVENT
 SUMMARY:Office Closed - Christmas
 DTSTART;VALUE=DATE:20271224
 DTEND;VALUE=DATE:20271225
-DTSTAMP:20261125T203504Z
-UID:3927874466691385838@suncity-events
+DTSTAMP:20261126T202419Z
+UID:6685131249081204417@suncity-events
 DESCRIPTION:Source: https://suncityhoa.org/events/office-closed-christmas-
  2
 URL:https://suncityhoa.org/events/office-closed-christmas-2
@@ -205,8 +205,8 @@ BEGIN:VEVENT
 SUMMARY:Office Closed - Independence Day
 DTSTART;VALUE=DATE:20270705
 DTEND;VALUE=DATE:20270706
-DTSTAMP:20261125T203517Z
-UID:8176384334354277083@suncity-events
+DTSTAMP:20261126T202428Z
+UID:6233616743239639725@suncity-events
 DESCRIPTION:Source: https://suncityhoa.org/events/office-closed-independen
  ce-day-3
 URL:https://suncityhoa.org/events/office-closed-independence-day-3
@@ -215,8 +215,8 @@ BEGIN:VEVENT
 SUMMARY:Office Closed - Labor Day
 DTSTART;VALUE=DATE:20270906
 DTEND;VALUE=DATE:20270907
-DTSTAMP:20261125T203525Z
-UID:2830858275315329489@suncity-events
+DTSTAMP:20261126T202434Z
+UID:5193203579145672808@suncity-events
 DESCRIPTION:Source: https://suncityhoa.org/events/office-closed-labor-day-
  4
 URL:https://suncityhoa.org/events/office-closed-labor-day-4
@@ -225,8 +225,8 @@ BEGIN:VEVENT
 SUMMARY:Office Closed - Memorial Day
 DTSTART;VALUE=DATE:20270531
 DTEND;VALUE=DATE:20270601
-DTSTAMP:20261125T203531Z
-UID:6289578180309592970@suncity-events
+DTSTAMP:20261126T202440Z
+UID:1113261848403041804@suncity-events
 DESCRIPTION:Source: https://suncityhoa.org/events/office-closed-memorial-d
  ay-4
 URL:https://suncityhoa.org/events/office-closed-memorial-day-4
@@ -235,8 +235,8 @@ BEGIN:VEVENT
 SUMMARY:Office Closed - New Years Day
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
-DTSTAMP:20261125T203533Z
-UID:6740372350846935643@suncity-events
+DTSTAMP:20261126T202442Z
+UID:1026479170614027340@suncity-events
 DESCRIPTION:Source: https://suncityhoa.org/events/office-closed-new-years-
  day
 URL:https://suncityhoa.org/events/office-closed-new-years-day
@@ -245,8 +245,8 @@ BEGIN:VEVENT
 SUMMARY:Office Closed - New Years Day
 DTSTART;VALUE=DATE:20271231
 DTEND;VALUE=DATE:20280101
-DTSTAMP:20261125T203534Z
-UID:9127550675148901362@suncity-events
+DTSTAMP:20261126T202442Z
+UID:1086667379258239642@suncity-events
 DESCRIPTION:Source: https://suncityhoa.org/events/office-closed-new-years-
  day-2
 URL:https://suncityhoa.org/events/office-closed-new-years-day-2
@@ -255,8 +255,8 @@ BEGIN:VEVENT
 SUMMARY:Office Closed - President's Day
 DTSTART;VALUE=DATE:20270215
 DTEND;VALUE=DATE:20270216
-DTSTAMP:20261125T203537Z
-UID:2093205089293239808@suncity-events
+DTSTAMP:20261126T202446Z
+UID:2326658766988626877@suncity-events
 DESCRIPTION:Source: https://suncityhoa.org/events/office-closed-presidents
  -day-3
 URL:https://suncityhoa.org/events/office-closed-presidents-day-3
@@ -265,8 +265,8 @@ BEGIN:VEVENT
 SUMMARY:Office Closed: Thanksgiving
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261128
-DTSTAMP:20261125T203540Z
-UID:6273161454396309974@suncity-events
+DTSTAMP:20261126T202450Z
+UID:6094566220426128123@suncity-events
 DESCRIPTION:Source: https://suncityhoa.org/events/office-closed-thanksgivi
  ng-3
 URL:https://suncityhoa.org/events/office-closed-thanksgiving-3
@@ -275,8 +275,8 @@ BEGIN:VEVENT
 SUMMARY:Office Closed - Thanksgiving
 DTSTART;VALUE=DATE:20271125
 DTEND;VALUE=DATE:20271127
-DTSTAMP:20261125T203540Z
-UID:4161193306137888532@suncity-events
+DTSTAMP:20261126T202451Z
+UID:1563393909086683417@suncity-events
 DESCRIPTION:Source: https://suncityhoa.org/events/office-closed-thanksgivi
  ng-4
 URL:https://suncityhoa.org/events/office-closed-thanksgiving-4
@@ -285,8 +285,8 @@ BEGIN:VEVENT
 SUMMARY:Office Closed - Veterans Day
 DTSTART;VALUE=DATE:20271111
 DTEND;VALUE=DATE:20271112
-DTSTAMP:20261125T203542Z
-UID:7532444161463635899@suncity-events
+DTSTAMP:20261126T202453Z
+UID:3756231779110866010@suncity-events
 DESCRIPTION:Source: https://suncityhoa.org/events/office-closed-veterans-d
  ay-2
 URL:https://suncityhoa.org/events/office-closed-veterans-day-2
@@ -295,8 +295,8 @@ BEGIN:VEVENT
 SUMMARY:SCHOA Annual Meeting
 DTSTART:20270112T090000
 DTEND:20270112T110000
-DTSTAMP:20261125T203607Z
-UID:7856497117526422313@suncity-events
+DTSTAMP:20261126T202528Z
+UID:329075540252462400@suncity-events
 DESCRIPTION:Source: https://suncityhoa.org/events/schoa-annual-meeting-4
 URL:https://suncityhoa.org/events/schoa-annual-meeting-4
 END:VEVENT
